@@ -1,0 +1,2001 @@
+{
+  "ae4930bb-7af7-446c-874b-6e6ada2c5b77": {
+    "url": "db://assets/Framework",
+    "value": {}
+  },
+  "aaa3d1bb-685f-4baf-9e28-20532b5a1915": {
+    "url": "db://assets/Framework/AssetsPackage",
+    "value": {}
+  },
+  "9ee9ad9e-53cd-42fe-afbb-38157a68379b": {
+    "url": "db://assets/Framework/Scripts",
+    "value": {}
+  },
+  "2b9a5e0f-fd1f-4e9f-bda3-bc7d276943a8": {
+    "url": "db://assets/Game",
+    "value": {}
+  },
+  "aa3ceb2b-f370-4760-a279-90a612e9916c": {
+    "url": "db://assets/Game/AssetsPackage",
+    "value": {}
+  },
+  "0e005a2c-cdb9-46e5-b8a8-ff7a0301fa6e": {
+    "url": "db://assets/Game/AssetsPackage/GUI",
+    "value": {}
+  },
+  "e4b16d32-064c-4653-9118-1133749bd4b0": {
+    "url": "db://assets/Game/AssetsPackage/Datas",
+    "value": {}
+  },
+  "34480eb2-df59-4e22-aa08-ba1e4bd26622": {
+    "url": "db://assets/Game/AssetsPackage/Charactors",
+    "value": {}
+  },
+  "d76f8434-cd25-4c60-9a1c-417e33983e2c": {
+    "url": "db://assets/Game/AssetsPackage/Scenes",
+    "value": {}
+  },
+  "712a8614-ce96-4be1-98a6-eddcf1471cb9": {
+    "url": "db://assets/Game/Scripts",
+    "value": {}
+  },
+  "a012d260-d5e0-4119-a739-84ffabb9a676": {
+    "url": "db://assets/Boot",
+    "value": {}
+  },
+  "c0fe593d-533b-4264-9f3d-635681a36fee": {
+    "url": "db://assets/Boot/AssetsPackage",
+    "value": {}
+  },
+  "53d55d1b-0c31-49a0-afed-c9c48b7634e4": {
+    "url": "db://assets/Boot/Scripts",
+    "value": {}
+  },
+  "86c4d210-e108-4b8e-bf00-2c154a0b9316": {
+    "url": "db://assets/Boot/AssetsPackage/startup.scene",
+    "value": {
+      "depends": [
+        "86c4d210-e108-4b8e-bf00-2c154a0b9316",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "2ee22040-bcda-4678-8384-9761fc133c57"
+      ]
+    }
+  },
+  "2ee22040-bcda-4678-8384-9761fc133c57": {
+    "url": "db://assets/Boot/Scripts/Boot.ts",
+    "value": {}
+  },
+  "7975d88a-6e79-46f9-9087-3733014e3f1b": {
+    "url": "db://assets/Game/Scripts/GameApp.ts",
+    "value": {}
+  },
+  "16662d0f-4e0a-4b6e-ae37-2726f8965add": {
+    "url": "db://assets/Game/AssetsPackage/Scenes/main.scene",
+    "value": {
+      "depends": [
+        "16662d0f-4e0a-4b6e-ae37-2726f8965add",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": []
+    }
+  },
+  "baa7408a-57ef-4764-9b85-18a3af3f9a1d": {
+    "url": "db://assets/Framework/Scripts/Managers",
+    "value": {}
+  },
+  "06c246e9-143b-4151-b973-e1da1539f745": {
+    "url": "db://assets/Framework/Scripts/Managers/SceneManager.ts",
+    "value": {}
+  },
+  "0b60812a-fd56-4c50-96a8-119f36c07a13": {
+    "url": "db://assets/Framework/Scripts/Managers/ResManager.ts",
+    "value": {}
+  },
+  "b0ae6b67-cad4-4e92-b37c-7c36e88a0b41": {
+    "url": "db://assets/Game/AssetsPackage/Sounds",
+    "value": {}
+  },
+  "f30ca510-4b65-4623-bc64-7604fc3163d3": {
+    "url": "db://assets/Game/AssetsPackage/Datas/fragment.csv",
+    "value": {
+      "depends": []
+    }
+  },
+  "38236d2f-1f5b-46ae-8be9-f262dd1af6fd": {
+    "url": "db://assets/Game/AssetsPackage/Datas/fruit.csv",
+    "value": {
+      "depends": []
+    }
+  },
+  "3bab0650-02c7-438d-932f-874d264bea9e": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/attack1.mp3",
+    "value": {}
+  },
+  "2b65df33-e93f-4641-ba23-e3b76b6a5cd2": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/attack2.mp3",
+    "value": {}
+  },
+  "581f644f-4740-4bc4-99b3-82cc283ffc13": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/attack3.mp3",
+    "value": {}
+  },
+  "deb5f0f0-8e42-46ad-8c2d-6132e14978cb": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/attack4.mp3",
+    "value": {}
+  },
+  "3a332f6f-8848-473b-9261-fecdc825a9ee": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bestReward.mp3",
+    "value": {}
+  },
+  "e5627c1e-b620-45b3-8f95-9b0f062d70b7": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAngry.mp3",
+    "value": {}
+  },
+  "95f5c1c3-8e04-4270-a9a4-0f47c982b2b4": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAttackGround1.mp3",
+    "value": {}
+  },
+  "a4762623-ea88-4528-90fe-c51b40ed3556": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAttackGround2.mp3",
+    "value": {}
+  },
+  "2eba8a49-f4c0-411a-8f05-5800a53446a8": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAttackGround3.mp3",
+    "value": {}
+  },
+  "06d6a958-3b45-4581-ba38-5ffabab1769a": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossAttackGround4.mp3",
+    "value": {}
+  },
+  "4ccae884-a321-44f6-8cca-655f0fc61e53": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossVertigo.mp3",
+    "value": {}
+  },
+  "545a3046-0b9e-463d-9980-06eaf3b1fb17": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossWeaponHit.mp3",
+    "value": {}
+  },
+  "1fb94d7b-97b7-44ee-a00d-b1f6207ad8ed": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossWeaponWaving1.mp3",
+    "value": {}
+  },
+  "e6097f5b-2123-4ea6-9a03-842e1a9b9cd1": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossWeaponWaving2.mp3",
+    "value": {}
+  },
+  "4242fb70-dfa4-46eb-84bb-22d1f1c2f3a3": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bossWeaponWaving3.mp3",
+    "value": {}
+  },
+  "147ac8ea-c0cd-4c08-a9b9-f74a3882f2ff": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/changeColor.mp3",
+    "value": {}
+  },
+  "72998e86-c804-4d3e-ba63-79a973a7d29e": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/click.mp3",
+    "value": {}
+  },
+  "f6434c84-94e8-4685-a66e-85efac9de44f": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/collectKey.mp3",
+    "value": {}
+  },
+  "d8d59905-f143-4e72-ae0a-812e0834e488": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/collectPeopleRight.mp3",
+    "value": {}
+  },
+  "061860f2-7177-42af-9052-6fd054858342": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/collectPeopleWrong.mp3",
+    "value": {}
+  },
+  "0a0d8500-0587-4f86-b455-8738676f3d5f": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/diamondCollect.mp3",
+    "value": {}
+  },
+  "66a9aab6-571c-4229-9532-74d923ac829d": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/diamondReceive.mp3",
+    "value": {}
+  },
+  "6fbe2157-ddbc-401f-aa49-1d392dbbb7b9": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/dodge.mp3",
+    "value": {}
+  },
+  "f8bfe152-c7b4-4bac-afe4-7c3437492000": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/enemyHitFly.mp3",
+    "value": {}
+  },
+  "9e106a1d-fe16-460d-8166-81ffefd0ba95": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/fail.mp3",
+    "value": {}
+  },
+  "430d1ffa-f7b6-447a-b89e-21dfd336da10": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/fallDownOnGround.mp3",
+    "value": {}
+  },
+  "a06bfe12-0d1f-44fd-a30c-5ebb551735c9": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/fire.mp3",
+    "value": {}
+  },
+  "8f26da45-2939-4199-bd0c-a959e461b8ec": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep1.mp3",
+    "value": {}
+  },
+  "b63838df-78ed-4953-b7ac-41dfce71f690": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep2.mp3",
+    "value": {}
+  },
+  "b3f216f5-3cdc-46b4-9dda-73e256ff8d3c": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep3.mp3",
+    "value": {}
+  },
+  "593439b2-68ca-4d35-9359-864a655b17ac": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep4.mp3",
+    "value": {}
+  },
+  "988415f0-623e-422c-bacf-757d09e0ea20": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/footstep5.mp3",
+    "value": {}
+  },
+  "615fbd34-8877-45fb-8d4b-874be8c33997": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/getSkin.mp3",
+    "value": {}
+  },
+  "c9211b09-b209-44f5-945b-e59954c870bd": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/invincible.mp3",
+    "value": {}
+  },
+  "3b80eb2e-3705-4b1e-ad18-35f0107198d4": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/jumpLandingGround.mp3",
+    "value": {}
+  },
+  "3fa0a838-e3af-48c0-8a05-95079f26a188": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/levelUp.mp3",
+    "value": {}
+  },
+  "2735c060-bac8-4c52-9fd7-a298d1487615": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/numRaise.mp3",
+    "value": {}
+  },
+  "aa93cadb-24f8-4fc4-b668-1be02b9810b9": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/revive.mp3",
+    "value": {}
+  },
+  "f17a2288-2eb9-429d-a323-aaba371fd839": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/rewardBigBox.mp3",
+    "value": {}
+  },
+  "46a57ae5-8850-402d-8200-fca78d286465": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/rewardSmallBox.mp3",
+    "value": {}
+  },
+  "2f4a7232-73e7-40d3-9d01-c3c58b00e9e0": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/wallThoughFail.mp3",
+    "value": {}
+  },
+  "0b0e51fb-ad2c-4b47-8e80-c2c063a89435": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/wallThoughSuccess.mp3",
+    "value": {}
+  },
+  "4880eec7-31be-407b-bda0-69e5db9e4e85": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/win.mp3",
+    "value": {}
+  },
+  "59478ac5-9111-47da-85e4-489f49018f70": {
+    "url": "db://assets/Game/AssetsPackage/Musics",
+    "value": {}
+  },
+  "ea36f2db-7378-4f5f-a7ea-840bc2907b0e": {
+    "url": "db://assets/Game/AssetsPackage/Musics/background.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "fa72205d-843f-4f05-9eac-402a1cefdb54": {
+    "url": "db://assets/Framework/Scripts/Utils",
+    "value": {}
+  },
+  "19c5cb7e-38da-401b-a46c-ef9b87dc35f0": {
+    "url": "db://assets/Framework/Scripts/Utils/RandomUtils.ts",
+    "value": {}
+  },
+  "106b0271-fc80-481c-84d5-67f5eca2b915": {
+    "url": "db://assets/Framework/Scripts/Utils/GameUtils.ts",
+    "value": {}
+  },
+  "0d428502-adfb-4dfb-a745-511879c8044d": {
+    "url": "db://assets/Framework/Scripts/Utils/CocosUtils.ts",
+    "value": {}
+  },
+  "6694b9a0-5403-496d-9634-488b99b3cade": {
+    "url": "db://assets/Framework/Scripts/Managers/Debug.ts",
+    "value": {}
+  },
+  "28969dcd-204c-4ef7-9e58-b237ce519d2d": {
+    "url": "db://assets/Framework/AssetsPackage/Debug",
+    "value": {}
+  },
+  "416df073-9169-4e41-a078-687d5c20db68": {
+    "url": "db://assets/Framework/AssetsPackage/Debug/DebugWindow.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "50f45955-54c3-4428-abb4-8fddb695e170": {
+    "url": "db://assets/Framework/Scripts/Managers/EventManager.ts",
+    "value": {}
+  },
+  "a55e9a97-b16b-4585-bbc7-6dbd6d07ea83": {
+    "url": "db://assets/Framework/Scripts/Managers/TimerMgr.ts",
+    "value": {}
+  },
+  "2197c372-0288-4910-bd83-43b34e2ace12": {
+    "url": "db://assets/Framework/Scripts/Utils/HttpUtils.ts",
+    "value": {}
+  },
+  "c6195d97-344a-416f-85e7-f3bfadde1e87": {
+    "url": "db://assets/Framework/Scripts/Managers/SoundManager.ts",
+    "value": {}
+  },
+  "c8b4157b-a357-4a04-b5fd-4c43d6fd3310": {
+    "url": "db://assets/Game/AssetsPackage/game",
+    "value": {}
+  },
+  "505dab1a-f900-42ab-9130-2312b6568794": {
+    "url": "db://assets/Game/AssetsPackage/game/shader",
+    "value": {}
+  },
+  "108341c8-795d-487f-99af-e351f75732d9": {
+    "url": "db://assets/Game/AssetsPackage/game/shader/CircleAvatar.effect",
+    "value": {}
+  },
+  "1f1dca05-8255-4d56-af1d-51e858e868ad": {
+    "url": "db://assets/Game/AssetsPackage/game/shader/CircleAvatar.mtl",
+    "value": {}
+  },
+  "66ba45b9-42fb-43c4-8385-4ab071e7dfb5": {
+    "url": "db://assets/Game/AssetsPackage/game/start",
+    "value": {}
+  },
+  "5bb7688d-be8c-45e9-bc07-ca7413984e08": {
+    "url": "db://assets/Game/AssetsPackage/game/start/images",
+    "value": {}
+  },
+  "874bcaa5-a170-45a9-a661-9bdf533d0533": {
+    "url": "db://assets/Game/AssetsPackage/game/start/shaders",
+    "value": {}
+  },
+  "0e468356-89a5-462e-9026-10dd5d180eac": {
+    "url": "db://assets/Game/AssetsPackage/game/start/shaders/mask-sprite.effect",
+    "value": {}
+  },
+  "0c791f16-a0ce-43d3-a2b7-e3110a089cdc": {
+    "url": "db://assets/Game/AssetsPackage/game/start/shaders/mask-sprite.mtl",
+    "value": {}
+  },
+  "63fa0fd2-c9e5-48f1-bdea-6b853838de78": {
+    "url": "db://assets/Game/AssetsPackage/game/start/images/head.png",
+    "value": {}
+  },
+  "63fa0fd2-c9e5-48f1-bdea-6b853838de78@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/game/start/images/head.png@6c48a",
+    "value": {
+      "depends": [
+        "63fa0fd2-c9e5-48f1-bdea-6b853838de78"
+      ]
+    }
+  },
+  "63fa0fd2-c9e5-48f1-bdea-6b853838de78@f9941": {
+    "url": "db://assets/Game/AssetsPackage/game/start/images/head.png@f9941",
+    "value": {
+      "depends": [
+        "63fa0fd2-c9e5-48f1-bdea-6b853838de78@6c48a"
+      ]
+    }
+  },
+  "3e2ff84a-9e8b-4dbc-aa78-cd2962f4f5e2": {
+    "url": "db://assets/Framework/Scripts/3rd",
+    "value": {}
+  },
+  "1c43ce96-4e44-4ff5-85fe-b3ff27fd2ab3": {
+    "url": "db://assets/Framework/Scripts/3rd/CSVParser.ts",
+    "value": {}
+  },
+  "b53cc557-a801-43a5-bb7c-39e73e8e1b19": {
+    "url": "db://assets/Framework/Scripts/Managers/ExcelManager.ts",
+    "value": {}
+  },
+  "be9fdb60-9f79-4ad9-a6f6-9616295e300e": {
+    "url": "db://assets/Framework/Scripts/Managers/PoolManager.ts",
+    "value": {}
+  },
+  "bb21dd27-41f3-43b4-b41a-c4594ec9bfe7": {
+    "url": "db://assets/Game/AssetsPackage/Charactors/Player.prefab",
+    "value": {
+      "depends": [
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@17020",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+      ],
+      "dependScripts": []
+    }
+  },
+  "abfae780-bf77-4e82-bd59-e66133409d64": {
+    "url": "db://assets/Framework/Scripts/Managers/WsNetMgr.ts",
+    "value": {}
+  },
+  "f0413398-867d-496f-b954-f9878890068d": {
+    "url": "db://assets/Game/AssetsPackage/Protos",
+    "value": {}
+  },
+  "5b354a04-bc59-4207-b873-876937cdf4e8": {
+    "url": "db://assets/Game/AssetsPackage/Protos/common.proto",
+    "value": {
+      "depends": []
+    }
+  },
+  "b37a9e65-ecc0-475d-b5aa-7fe64d54f038": {
+    "url": "db://assets/Game/Scripts/Protobuf",
+    "value": {}
+  },
+  "06642f7a-8cc1-4b8c-884e-018d00a6a78b": {
+    "url": "db://assets/Game/Scripts/Protobuf/pb.d.ts",
+    "value": {}
+  },
+  "91acf2c4-b951-4fd7-b67d-6ef61b31f366": {
+    "url": "db://assets/Game/Scripts/Protobuf/package.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "e312b7be-1b48-4dc8-879b-af9c4ab45546": {
+    "url": "db://assets/Game/Scripts/Protobuf/pb.js",
+    "value": {}
+  },
+  "dc114923-2b19-4d91-bd14-58b8cb73f2ef": {
+    "url": "db://assets/Game/Scripts/Utils",
+    "value": {}
+  },
+  "f94b0280-f0e1-4500-bf7c-98571b31f685": {
+    "url": "db://assets/Game/Scripts/Utils/ProtobufUtils.ts",
+    "value": {}
+  },
+  "2ce13ba9-94ac-4cb3-8b63-01ebbcaa77c5": {
+    "url": "db://assets/Framework/Scripts/Managers/UIMgr.ts",
+    "value": {}
+  },
+  "ee2aa130-3586-4ae6-ad48-0912a6fb2c82": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs",
+    "value": {}
+  },
+  "9dea37e0-bc46-45d9-b49b-c47cf08f8c0d": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/UIMain.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "8d65c496-6a6a-4fe1-9519-5f35aa22acd6": {
+    "url": "db://assets/Game/Scripts/UIControllers",
+    "value": {}
+  },
+  "b45ef6c9-2005-4033-af39-39e16c07e168": {
+    "url": "db://assets/Game/Scripts/UIControllers",
+    "value": {}
+  },
+  "e4f99181-45da-4293-bd81-5a7eab45ab80": {
+    "url": "db://assets/Game/Scripts/UIControllers/UIHome_UICtrl.ts",
+    "value": {}
+  },
+  "8e63a092-5e0f-4e5f-a341-4cd9c118e168": {
+    "url": "db://assets/Game/Scripts/UIControllers/UIHome_UICtrl.ts",
+    "value": {}
+  },
+  "52c96046-612a-402c-b14f-b8e48c8a9272": {
+    "url": "db://assets/Game/Scripts/UIControllers/UIMain_UICtrl.ts",
+    "value": {}
+  },
+  "ae333720-a257-4d81-b7b1-f56ac7d2ee56": {
+    "url": "db://assets/Framework/Scripts/Utils/Opacity3D.ts",
+    "value": {}
+  },
+  "cff84824-a1d0-4b98-8876-847e6878c9d1": {
+    "url": "db://assets/Game/AssetsPackage/font",
+    "value": {}
+  },
+  "5207ebdd-1e26-4c00-a63c-76eadf758e86": {
+    "url": "db://assets/Game/AssetsPackage/fonts",
+    "value": {}
+  },
+  "d98af194-9734-4986-94d0-022283798b2c": {
+    "url": "db://assets/Game/AssetsPackage/shoot",
+    "value": {}
+  },
+  "44b0e9ef-7b01-4895-b47e-1aa24ef64487": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background",
+    "value": {}
+  },
+  "e059cdfa-b35f-4f5a-b095-9d250ddb6498": {
+    "url": "db://assets/Game/AssetsPackage/sound",
+    "value": {}
+  },
+  "c96fabfc-eaa9-40a0-b700-fde60c96be64": {
+    "url": "db://assets/Game/AssetsPackage/font/font.fnt",
+    "value": {}
+  },
+  "78d3c0e9-bcde-41f8-98a5-7b239c2637c9": {
+    "url": "db://assets/Game/AssetsPackage/font/font.png",
+    "value": {}
+  },
+  "f2363f4f-6a5e-4de3-8ba1-461d84fd98f4": {
+    "url": "db://assets/Game/AssetsPackage/fonts/arial.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "f69ef469-0a6d-4b4a-89a3-dacf13005aa3": {
+    "url": "db://assets/Game/AssetsPackage/fonts/Marker Felt.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "faec4faa-8b72-4cc5-a06f-ab819229a0ba": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bomb.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6dea17d8-16c7-4cd8-9434-dbf77d784c7b": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bullet1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4d0477b0-3814-47cc-901b-1a548d920a47": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bullet2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "faec4faa-8b72-4cc5-a06f-ab819229a0ba@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bomb.png@6c48a",
+    "value": {
+      "depends": [
+        "faec4faa-8b72-4cc5-a06f-ab819229a0ba"
+      ]
+    }
+  },
+  "78d3c0e9-bcde-41f8-98a5-7b239c2637c9@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/font/font.png@6c48a",
+    "value": {
+      "depends": [
+        "78d3c0e9-bcde-41f8-98a5-7b239c2637c9"
+      ]
+    }
+  },
+  "78d3c0e9-bcde-41f8-98a5-7b239c2637c9@f9941": {
+    "url": "db://assets/Game/AssetsPackage/font/font.png@f9941",
+    "value": {
+      "depends": [
+        "78d3c0e9-bcde-41f8-98a5-7b239c2637c9@6c48a"
+      ]
+    }
+  },
+  "faec4faa-8b72-4cc5-a06f-ab819229a0ba@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bomb.png@f9941",
+    "value": {
+      "depends": [
+        "faec4faa-8b72-4cc5-a06f-ab819229a0ba@6c48a"
+      ]
+    }
+  },
+  "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "17c35753-403a-4fbd-bda2-b30d455959e7": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6dea17d8-16c7-4cd8-9434-dbf77d784c7b@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bullet1.png@6c48a",
+    "value": {
+      "depends": [
+        "6dea17d8-16c7-4cd8-9434-dbf77d784c7b"
+      ]
+    }
+  },
+  "3f9ba9ea-09d8-4602-a659-be06d979ece7": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6dea17d8-16c7-4cd8-9434-dbf77d784c7b@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bullet1.png@f9941",
+    "value": {
+      "depends": [
+        "6dea17d8-16c7-4cd8-9434-dbf77d784c7b@6c48a"
+      ]
+    }
+  },
+  "d06b786f-e1d6-41f1-a52a-2d8c83229377": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4d0477b0-3814-47cc-901b-1a548d920a47@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bullet2.png@6c48a",
+    "value": {
+      "depends": [
+        "4d0477b0-3814-47cc-901b-1a548d920a47"
+      ]
+    }
+  },
+  "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1.png@6c48a",
+    "value": {
+      "depends": [
+        "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855"
+      ]
+    }
+  },
+  "4d0477b0-3814-47cc-901b-1a548d920a47@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/bullet2.png@f9941",
+    "value": {
+      "depends": [
+        "4d0477b0-3814-47cc-901b-1a548d920a47@6c48a"
+      ]
+    }
+  },
+  "8a8d86b6-201e-4cb8-80b3-948d83582986": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "17c35753-403a-4fbd-bda2-b30d455959e7@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down1.png@6c48a",
+    "value": {
+      "depends": [
+        "17c35753-403a-4fbd-bda2-b30d455959e7"
+      ]
+    }
+  },
+  "3f9ba9ea-09d8-4602-a659-be06d979ece7@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down2.png@6c48a",
+    "value": {
+      "depends": [
+        "3f9ba9ea-09d8-4602-a659-be06d979ece7"
+      ]
+    }
+  },
+  "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1.png@f9941",
+    "value": {
+      "depends": [
+        "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855@6c48a"
+      ]
+    }
+  },
+  "8dfb8b1f-6aa6-4834-8cd8-b77205427e75": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d06b786f-e1d6-41f1-a52a-2d8c83229377@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down3.png@6c48a",
+    "value": {
+      "depends": [
+        "d06b786f-e1d6-41f1-a52a-2d8c83229377"
+      ]
+    }
+  },
+  "17c35753-403a-4fbd-bda2-b30d455959e7@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down1.png@f9941",
+    "value": {
+      "depends": [
+        "17c35753-403a-4fbd-bda2-b30d455959e7@6c48a"
+      ]
+    }
+  },
+  "8eff85b1-8083-42e4-9bd0-4be4eaa43c79": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3f9ba9ea-09d8-4602-a659-be06d979ece7@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down2.png@f9941",
+    "value": {
+      "depends": [
+        "3f9ba9ea-09d8-4602-a659-be06d979ece7@6c48a"
+      ]
+    }
+  },
+  "091f29ab-cd3b-4d5e-97e1-85c6c2954256": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a8d86b6-201e-4cb8-80b3-948d83582986@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down4.png@6c48a",
+    "value": {
+      "depends": [
+        "8a8d86b6-201e-4cb8-80b3-948d83582986"
+      ]
+    }
+  },
+  "d06b786f-e1d6-41f1-a52a-2d8c83229377@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down3.png@f9941",
+    "value": {
+      "depends": [
+        "d06b786f-e1d6-41f1-a52a-2d8c83229377@6c48a"
+      ]
+    }
+  },
+  "9d4ca3ed-dbbb-4b99-bf19-1491bdef0ae7": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a8d86b6-201e-4cb8-80b3-948d83582986@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy1_down4.png@f9941",
+    "value": {
+      "depends": [
+        "8a8d86b6-201e-4cb8-80b3-948d83582986@6c48a"
+      ]
+    }
+  },
+  "7d29c122-f49c-419b-be53-59e7ee22f92e": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8dfb8b1f-6aa6-4834-8cd8-b77205427e75@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2.png@6c48a",
+    "value": {
+      "depends": [
+        "8dfb8b1f-6aa6-4834-8cd8-b77205427e75"
+      ]
+    }
+  },
+  "8eff85b1-8083-42e4-9bd0-4be4eaa43c79@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down1.png@6c48a",
+    "value": {
+      "depends": [
+        "8eff85b1-8083-42e4-9bd0-4be4eaa43c79"
+      ]
+    }
+  },
+  "091f29ab-cd3b-4d5e-97e1-85c6c2954256@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down2.png@6c48a",
+    "value": {
+      "depends": [
+        "091f29ab-cd3b-4d5e-97e1-85c6c2954256"
+      ]
+    }
+  },
+  "8dfb8b1f-6aa6-4834-8cd8-b77205427e75@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2.png@f9941",
+    "value": {
+      "depends": [
+        "8dfb8b1f-6aa6-4834-8cd8-b77205427e75@6c48a"
+      ]
+    }
+  },
+  "24e16570-a414-4b73-b849-1d31d284e083": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_hit.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8eff85b1-8083-42e4-9bd0-4be4eaa43c79@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down1.png@f9941",
+    "value": {
+      "depends": [
+        "8eff85b1-8083-42e4-9bd0-4be4eaa43c79@6c48a"
+      ]
+    }
+  },
+  "06f2b096-f286-4ae3-b823-c433244cde16": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7d29c122-f49c-419b-be53-59e7ee22f92e@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down4.png@6c48a",
+    "value": {
+      "depends": [
+        "7d29c122-f49c-419b-be53-59e7ee22f92e"
+      ]
+    }
+  },
+  "091f29ab-cd3b-4d5e-97e1-85c6c2954256@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down2.png@f9941",
+    "value": {
+      "depends": [
+        "091f29ab-cd3b-4d5e-97e1-85c6c2954256@6c48a"
+      ]
+    }
+  },
+  "f3a27a9e-fca2-4ac2-a7e8-fc647c17b1df": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9d4ca3ed-dbbb-4b99-bf19-1491bdef0ae7@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down3.png@6c48a",
+    "value": {
+      "depends": [
+        "9d4ca3ed-dbbb-4b99-bf19-1491bdef0ae7"
+      ]
+    }
+  },
+  "7d29c122-f49c-419b-be53-59e7ee22f92e@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down4.png@f9941",
+    "value": {
+      "depends": [
+        "7d29c122-f49c-419b-be53-59e7ee22f92e@6c48a"
+      ]
+    }
+  },
+  "74407fc9-dd8b-4795-953a-23420849572e": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9d4ca3ed-dbbb-4b99-bf19-1491bdef0ae7@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_down3.png@f9941",
+    "value": {
+      "depends": [
+        "9d4ca3ed-dbbb-4b99-bf19-1491bdef0ae7@6c48a"
+      ]
+    }
+  },
+  "fc326bb8-494d-4468-91c7-664da0482ade": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "24e16570-a414-4b73-b849-1d31d284e083@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_hit.png@6c48a",
+    "value": {
+      "depends": [
+        "24e16570-a414-4b73-b849-1d31d284e083"
+      ]
+    }
+  },
+  "06f2b096-f286-4ae3-b823-c433244cde16@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down1.png@6c48a",
+    "value": {
+      "depends": [
+        "06f2b096-f286-4ae3-b823-c433244cde16"
+      ]
+    }
+  },
+  "24e16570-a414-4b73-b849-1d31d284e083@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy2_hit.png@f9941",
+    "value": {
+      "depends": [
+        "24e16570-a414-4b73-b849-1d31d284e083@6c48a"
+      ]
+    }
+  },
+  "8b07c40c-db49-4a9f-9bc3-a4e2e028b867": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down5.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f3a27a9e-fca2-4ac2-a7e8-fc647c17b1df@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down2.png@6c48a",
+    "value": {
+      "depends": [
+        "f3a27a9e-fca2-4ac2-a7e8-fc647c17b1df"
+      ]
+    }
+  },
+  "06f2b096-f286-4ae3-b823-c433244cde16@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down1.png@f9941",
+    "value": {
+      "depends": [
+        "06f2b096-f286-4ae3-b823-c433244cde16@6c48a"
+      ]
+    }
+  },
+  "fb36d506-0765-46a1-a29f-3a956f157831": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down6.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "74407fc9-dd8b-4795-953a-23420849572e@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down3.png@6c48a",
+    "value": {
+      "depends": [
+        "74407fc9-dd8b-4795-953a-23420849572e"
+      ]
+    }
+  },
+  "fc326bb8-494d-4468-91c7-664da0482ade@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down4.png@6c48a",
+    "value": {
+      "depends": [
+        "fc326bb8-494d-4468-91c7-664da0482ade"
+      ]
+    }
+  },
+  "f3a27a9e-fca2-4ac2-a7e8-fc647c17b1df@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down2.png@f9941",
+    "value": {
+      "depends": [
+        "f3a27a9e-fca2-4ac2-a7e8-fc647c17b1df@6c48a"
+      ]
+    }
+  },
+  "7b3b26e2-bc70-4abd-b7ca-679533fa38d7": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_hit.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "74407fc9-dd8b-4795-953a-23420849572e@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down3.png@f9941",
+    "value": {
+      "depends": [
+        "74407fc9-dd8b-4795-953a-23420849572e@6c48a"
+      ]
+    }
+  },
+  "f1bfd15a-0459-46b6-9bb6-1799bcb320c8": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_n1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc326bb8-494d-4468-91c7-664da0482ade@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down4.png@f9941",
+    "value": {
+      "depends": [
+        "fc326bb8-494d-4468-91c7-664da0482ade@6c48a"
+      ]
+    }
+  },
+  "e77e4e9d-a1a4-455b-8fd3-15a15240dc82": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_n2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8b07c40c-db49-4a9f-9bc3-a4e2e028b867@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down5.png@6c48a",
+    "value": {
+      "depends": [
+        "8b07c40c-db49-4a9f-9bc3-a4e2e028b867"
+      ]
+    }
+  },
+  "fb36d506-0765-46a1-a29f-3a956f157831@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down6.png@6c48a",
+    "value": {
+      "depends": [
+        "fb36d506-0765-46a1-a29f-3a956f157831"
+      ]
+    }
+  },
+  "8b07c40c-db49-4a9f-9bc3-a4e2e028b867@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down5.png@f9941",
+    "value": {
+      "depends": [
+        "8b07c40c-db49-4a9f-9bc3-a4e2e028b867@6c48a"
+      ]
+    }
+  },
+  "d9088c1b-dac5-43f2-be87-8d752b207b02": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_pause_nor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7b3b26e2-bc70-4abd-b7ca-679533fa38d7@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_hit.png@6c48a",
+    "value": {
+      "depends": [
+        "7b3b26e2-bc70-4abd-b7ca-679533fa38d7"
+      ]
+    }
+  },
+  "f1bfd15a-0459-46b6-9bb6-1799bcb320c8@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_n1.png@6c48a",
+    "value": {
+      "depends": [
+        "f1bfd15a-0459-46b6-9bb6-1799bcb320c8"
+      ]
+    }
+  },
+  "fb36d506-0765-46a1-a29f-3a956f157831@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_down6.png@f9941",
+    "value": {
+      "depends": [
+        "fb36d506-0765-46a1-a29f-3a956f157831@6c48a"
+      ]
+    }
+  },
+  "e7eab781-2579-4e86-b96c-ea79335ac757": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_pause_pressed.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e77e4e9d-a1a4-455b-8fd3-15a15240dc82@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_n2.png@6c48a",
+    "value": {
+      "depends": [
+        "e77e4e9d-a1a4-455b-8fd3-15a15240dc82"
+      ]
+    }
+  },
+  "7b3b26e2-bc70-4abd-b7ca-679533fa38d7@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_hit.png@f9941",
+    "value": {
+      "depends": [
+        "7b3b26e2-bc70-4abd-b7ca-679533fa38d7@6c48a"
+      ]
+    }
+  },
+  "159060ed-7969-4d3a-84d0-62aa70ae3356": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_resume_nor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f1bfd15a-0459-46b6-9bb6-1799bcb320c8@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_n1.png@f9941",
+    "value": {
+      "depends": [
+        "f1bfd15a-0459-46b6-9bb6-1799bcb320c8@6c48a"
+      ]
+    }
+  },
+  "302d5a34-8c8b-4666-a428-eb86f038cb3b": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_resume_pressed.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9088c1b-dac5-43f2-be87-8d752b207b02@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_pause_nor.png@6c48a",
+    "value": {
+      "depends": [
+        "d9088c1b-dac5-43f2-be87-8d752b207b02"
+      ]
+    }
+  },
+  "e77e4e9d-a1a4-455b-8fd3-15a15240dc82@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/enemy3_n2.png@f9941",
+    "value": {
+      "depends": [
+        "e77e4e9d-a1a4-455b-8fd3-15a15240dc82@6c48a"
+      ]
+    }
+  },
+  "91e0153d-58f3-4fc7-b5db-b69359da864b": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e7eab781-2579-4e86-b96c-ea79335ac757@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_pause_pressed.png@6c48a",
+    "value": {
+      "depends": [
+        "e7eab781-2579-4e86-b96c-ea79335ac757"
+      ]
+    }
+  },
+  "d9088c1b-dac5-43f2-be87-8d752b207b02@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_pause_nor.png@f9941",
+    "value": {
+      "depends": [
+        "d9088c1b-dac5-43f2-be87-8d752b207b02@6c48a"
+      ]
+    }
+  },
+  "6753a28d-61d9-4312-ba81-3978f65baa16": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "159060ed-7969-4d3a-84d0-62aa70ae3356@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_resume_nor.png@6c48a",
+    "value": {
+      "depends": [
+        "159060ed-7969-4d3a-84d0-62aa70ae3356"
+      ]
+    }
+  },
+  "e7eab781-2579-4e86-b96c-ea79335ac757@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_pause_pressed.png@f9941",
+    "value": {
+      "depends": [
+        "e7eab781-2579-4e86-b96c-ea79335ac757@6c48a"
+      ]
+    }
+  },
+  "e46cf7f5-074f-49f2-8ab2-59655efb003b": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "302d5a34-8c8b-4666-a428-eb86f038cb3b@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_resume_pressed.png@6c48a",
+    "value": {
+      "depends": [
+        "302d5a34-8c8b-4666-a428-eb86f038cb3b"
+      ]
+    }
+  },
+  "159060ed-7969-4d3a-84d0-62aa70ae3356@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_resume_nor.png@f9941",
+    "value": {
+      "depends": [
+        "159060ed-7969-4d3a-84d0-62aa70ae3356@6c48a"
+      ]
+    }
+  },
+  "5fb4c51f-7e46-4a04-8397-f8e4d64d8317": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "91e0153d-58f3-4fc7-b5db-b69359da864b@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero1.png@6c48a",
+    "value": {
+      "depends": [
+        "91e0153d-58f3-4fc7-b5db-b69359da864b"
+      ]
+    }
+  },
+  "6753a28d-61d9-4312-ba81-3978f65baa16@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero2.png@6c48a",
+    "value": {
+      "depends": [
+        "6753a28d-61d9-4312-ba81-3978f65baa16"
+      ]
+    }
+  },
+  "302d5a34-8c8b-4666-a428-eb86f038cb3b@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/game_resume_pressed.png@f9941",
+    "value": {
+      "depends": [
+        "302d5a34-8c8b-4666-a428-eb86f038cb3b@6c48a"
+      ]
+    }
+  },
+  "44afa049-468e-4a80-b462-700901f31f0f": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "91e0153d-58f3-4fc7-b5db-b69359da864b@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero1.png@f9941",
+    "value": {
+      "depends": [
+        "91e0153d-58f3-4fc7-b5db-b69359da864b@6c48a"
+      ]
+    }
+  },
+  "5e50254b-f721-43df-90c1-31673d83a281": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6753a28d-61d9-4312-ba81-3978f65baa16@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero2.png@f9941",
+    "value": {
+      "depends": [
+        "6753a28d-61d9-4312-ba81-3978f65baa16@6c48a"
+      ]
+    }
+  },
+  "5e4d046c-8558-48d2-a92c-9168f4c8037c": {
+    "url": "db://assets/Game/AssetsPackage/shoot/ufo1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e46cf7f5-074f-49f2-8ab2-59655efb003b@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n1.png@6c48a",
+    "value": {
+      "depends": [
+        "e46cf7f5-074f-49f2-8ab2-59655efb003b"
+      ]
+    }
+  },
+  "44afa049-468e-4a80-b462-700901f31f0f@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n3.png@6c48a",
+    "value": {
+      "depends": [
+        "44afa049-468e-4a80-b462-700901f31f0f"
+      ]
+    }
+  },
+  "e46cf7f5-074f-49f2-8ab2-59655efb003b@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n1.png@f9941",
+    "value": {
+      "depends": [
+        "e46cf7f5-074f-49f2-8ab2-59655efb003b@6c48a"
+      ]
+    }
+  },
+  "5e50254b-f721-43df-90c1-31673d83a281@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n4.png@6c48a",
+    "value": {
+      "depends": [
+        "5e50254b-f721-43df-90c1-31673d83a281"
+      ]
+    }
+  },
+  "fd3ac97d-93b4-4d4b-8a8e-adf119a2371c": {
+    "url": "db://assets/Game/AssetsPackage/shoot/ufo2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "44afa049-468e-4a80-b462-700901f31f0f@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n3.png@f9941",
+    "value": {
+      "depends": [
+        "44afa049-468e-4a80-b462-700901f31f0f@6c48a"
+      ]
+    }
+  },
+  "7e5b68b6-8152-4064-adb3-448f6228e443": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/background.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5e50254b-f721-43df-90c1-31673d83a281@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n4.png@f9941",
+    "value": {
+      "depends": [
+        "5e50254b-f721-43df-90c1-31673d83a281@6c48a"
+      ]
+    }
+  },
+  "3edaaafb-ac2c-4e53-8914-76dd74773214": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/btn_finish.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5fb4c51f-7e46-4a04-8397-f8e4d64d8317@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n2.png@6c48a",
+    "value": {
+      "depends": [
+        "5fb4c51f-7e46-4a04-8397-f8e4d64d8317"
+      ]
+    }
+  },
+  "5e4d046c-8558-48d2-a92c-9168f4c8037c@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/ufo1.png@6c48a",
+    "value": {
+      "depends": [
+        "5e4d046c-8558-48d2-a92c-9168f4c8037c"
+      ]
+    }
+  },
+  "5fb4c51f-7e46-4a04-8397-f8e4d64d8317@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/hero_blowup_n2.png@f9941",
+    "value": {
+      "depends": [
+        "5fb4c51f-7e46-4a04-8397-f8e4d64d8317@6c48a"
+      ]
+    }
+  },
+  "df88db74-5fbf-4a1c-b5b0-87b6127391ed": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/gameover.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5e4d046c-8558-48d2-a92c-9168f4c8037c@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/ufo1.png@f9941",
+    "value": {
+      "depends": [
+        "5e4d046c-8558-48d2-a92c-9168f4c8037c@6c48a"
+      ]
+    }
+  },
+  "227e3eb3-cc4b-4940-8f2d-c6c1be2de407": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "fd3ac97d-93b4-4d4b-8a8e-adf119a2371c@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot/ufo2.png@6c48a",
+    "value": {
+      "depends": [
+        "fd3ac97d-93b4-4d4b-8a8e-adf119a2371c"
+      ]
+    }
+  },
+  "7e5b68b6-8152-4064-adb3-448f6228e443@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/background.png@6c48a",
+    "value": {
+      "depends": [
+        "7e5b68b6-8152-4064-adb3-448f6228e443"
+      ]
+    }
+  },
+  "3edaaafb-ac2c-4e53-8914-76dd74773214@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/btn_finish.png@6c48a",
+    "value": {
+      "depends": [
+        "3edaaafb-ac2c-4e53-8914-76dd74773214"
+      ]
+    }
+  },
+  "fd3ac97d-93b4-4d4b-8a8e-adf119a2371c@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot/ufo2.png@f9941",
+    "value": {
+      "depends": [
+        "fd3ac97d-93b4-4d4b-8a8e-adf119a2371c@6c48a"
+      ]
+    }
+  },
+  "0c90548a-8905-4213-b441-3adbdcbb1896": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7e5b68b6-8152-4064-adb3-448f6228e443@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/background.png@f9941",
+    "value": {
+      "depends": [
+        "7e5b68b6-8152-4064-adb3-448f6228e443@6c48a"
+      ]
+    }
+  },
+  "b43cac57-07d5-47ca-ae43-bd8364c97bdc": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3edaaafb-ac2c-4e53-8914-76dd74773214@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/btn_finish.png@f9941",
+    "value": {
+      "depends": [
+        "3edaaafb-ac2c-4e53-8914-76dd74773214@6c48a"
+      ]
+    }
+  },
+  "e23fd2c9-6aae-4daa-8a90-22e3636b3514": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "df88db74-5fbf-4a1c-b5b0-87b6127391ed@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/gameover.png@6c48a",
+    "value": {
+      "depends": [
+        "df88db74-5fbf-4a1c-b5b0-87b6127391ed"
+      ]
+    }
+  },
+  "227e3eb3-cc4b-4940-8f2d-c6c1be2de407@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading1.png@6c48a",
+    "value": {
+      "depends": [
+        "227e3eb3-cc4b-4940-8f2d-c6c1be2de407"
+      ]
+    }
+  },
+  "0c90548a-8905-4213-b441-3adbdcbb1896@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading2.png@6c48a",
+    "value": {
+      "depends": [
+        "0c90548a-8905-4213-b441-3adbdcbb1896"
+      ]
+    }
+  },
+  "227e3eb3-cc4b-4940-8f2d-c6c1be2de407@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading1.png@f9941",
+    "value": {
+      "depends": [
+        "227e3eb3-cc4b-4940-8f2d-c6c1be2de407@6c48a"
+      ]
+    }
+  },
+  "9293c8b9-0c81-4076-9845-638b01d935e3": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/shoot_copyright.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b43cac57-07d5-47ca-ae43-bd8364c97bdc@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading3.png@6c48a",
+    "value": {
+      "depends": [
+        "b43cac57-07d5-47ca-ae43-bd8364c97bdc"
+      ]
+    }
+  },
+  "df88db74-5fbf-4a1c-b5b0-87b6127391ed@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/gameover.png@f9941",
+    "value": {
+      "depends": [
+        "df88db74-5fbf-4a1c-b5b0-87b6127391ed@6c48a"
+      ]
+    }
+  },
+  "54a405cc-bde6-4703-a432-0cdae3cb5a2a": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/achievement.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "0c90548a-8905-4213-b441-3adbdcbb1896@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading2.png@f9941",
+    "value": {
+      "depends": [
+        "0c90548a-8905-4213-b441-3adbdcbb1896@6c48a"
+      ]
+    }
+  },
+  "cd143bc2-77dd-4f6f-986c-3ffe2b3214f4": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/big_spaceship_flying.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "b43cac57-07d5-47ca-ae43-bd8364c97bdc@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading3.png@f9941",
+    "value": {
+      "depends": [
+        "b43cac57-07d5-47ca-ae43-bd8364c97bdc@6c48a"
+      ]
+    }
+  },
+  "9e07b836-3105-47dd-85ef-b44890731b5a": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/bullet.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "831591c6-ec14-4a45-baf1-814b55d0a09a": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/button.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "30f20cf0-eae5-4aad-ad44-d2ae8a8c3823": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/enemy1_down.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "9293c8b9-0c81-4076-9845-638b01d935e3@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/shoot_copyright.png@6c48a",
+    "value": {
+      "depends": [
+        "9293c8b9-0c81-4076-9845-638b01d935e3"
+      ]
+    }
+  },
+  "d4b612f7-a2ab-48b6-8bc4-adb82405eb9d": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/enemy2_down.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "1473a2ab-ca53-452b-b995-c4d68b249095": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/enemy3_down.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "9293c8b9-0c81-4076-9845-638b01d935e3@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/shoot_copyright.png@f9941",
+    "value": {
+      "depends": [
+        "9293c8b9-0c81-4076-9845-638b01d935e3@6c48a"
+      ]
+    }
+  },
+  "57329959-8227-48e6-8fdb-8a24b6c295bb": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/game_music.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "07a40a9f-8dab-4d0b-a952-4871fd3fa8b9": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/game_over.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "e23fd2c9-6aae-4daa-8a90-22e3636b3514@6c48a": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading4.png@6c48a",
+    "value": {
+      "depends": [
+        "e23fd2c9-6aae-4daa-8a90-22e3636b3514"
+      ]
+    }
+  },
+  "ee4a256c-3812-4dad-bad6-ee633a3c9867": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/get_bomb.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "eea48e5e-1847-43a2-a963-ae449fd6d51b": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/get_double_laser.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "e23fd2c9-6aae-4daa-8a90-22e3636b3514@f9941": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/game_loading4.png@f9941",
+    "value": {
+      "depends": [
+        "e23fd2c9-6aae-4daa-8a90-22e3636b3514@6c48a"
+      ]
+    }
+  },
+  "e0223349-f28c-4743-ae6b-bc5a9a9fb88a": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/out_porp.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "9df2f214-6900-41f5-aa7d-0d7010be4e9a": {
+    "url": "db://assets/Game/AssetsPackage/Sounds/use_bomb.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "2fc49e68-e2ca-443f-af8f-3610ea6f1933": {
+    "url": "db://assets/Game/AssetsPackage/shoot/shoot.pac",
+    "value": {
+      "depends": []
+    }
+  },
+  "42d0da1c-e2e6-4dd5-9fb5-cc8e90798036": {
+    "url": "db://assets/Game/AssetsPackage/shoot_background/shoot_background.pac",
+    "value": {
+      "depends": []
+    }
+  },
+  "74dc2256-9e2f-4bce-b8e1-225b7eea2f70": {
+    "url": "db://assets/Game/AssetsPackage/Scenes/game.scene",
+    "value": {
+      "depends": [
+        "74dc2256-9e2f-4bce-b8e1-225b7eea2f70",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": []
+    }
+  },
+  "dd269d95-6a59-4f22-870f-cf36f618be49": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/UIGame.prefab",
+    "value": {
+      "depends": [
+        "7e5b68b6-8152-4064-adb3-448f6228e443@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "9293c8b9-0c81-4076-9845-638b01d935e3@f9941",
+        "227e3eb3-cc4b-4940-8f2d-c6c1be2de407@f9941",
+        "b31fd9a2-14e6-4dc9-9468-beda21534152",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "d9088c1b-dac5-43f2-be87-8d752b207b02@f9941",
+        "e7eab781-2579-4e86-b96c-ea79335ac757@f9941",
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "3ed8165d-7a9f-43f5-87b4-49a4bd5ae787": {
+    "url": "db://assets/Game/Scripts/UIControllers/UIGameUICtrl.ts",
+    "value": {}
+  },
+  "ae1ce6cd-0377-43d3-b264-35fa31b74937": {
+    "url": "db://assets/Game/AssetsPackage/animate",
+    "value": {}
+  },
+  "e3784eb7-abac-43ed-8f01-5771d96eeac2": {
+    "url": "db://assets/Game/AssetsPackage/animate/heroNormal.anim",
+    "value": {
+      "depends": [
+        "91e0153d-58f3-4fc7-b5db-b69359da864b@f9941",
+        "6753a28d-61d9-4312-ba81-3978f65baa16@f9941"
+      ]
+    }
+  },
+  "af1731f3-248b-426f-b19e-117d6f746f23": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/hero.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "6753a28d-61d9-4312-ba81-3978f65baa16@f9941",
+        "e3784eb7-abac-43ed-8f01-5771d96eeac2",
+        "21eb5927-4ba1-4206-8403-e1c8ca353554",
+        "1d231211-00b7-44b2-ab93-69000c699fc0"
+      ],
+      "dependScripts": []
+    }
+  },
+  "f246f5b5-bad0-42da-baa2-5a9bfcd10132": {
+    "url": "db://assets/Game/Scripts/UIControllers/heroUICtrl.ts",
+    "value": {}
+  },
+  "2e3aa7aa-a528-4ce3-bfda-c2a7a2575715": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/enemy1.prefab",
+    "value": {
+      "depends": [
+        "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855@f9941",
+        "85714b1c-4ce3-46d4-9630-3a1f1f5b901e",
+        "12365cdd-0c3a-4be1-a504-3363d6b4a043",
+        "615bcdbc-1199-47cb-8c7a-0166274f2319"
+      ],
+      "dependScripts": []
+    }
+  },
+  "5f65f1d3-bc24-4c37-901a-1f8651d17fb0": {
+    "url": "db://assets/Game/Scripts/UIControllers/enemy1UICtrl.ts",
+    "value": {}
+  },
+  "6b582eeb-e23f-456f-9ccd-6e1628695c8d": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/enemy2.prefab",
+    "value": {
+      "depends": [
+        "8dfb8b1f-6aa6-4834-8cd8-b77205427e75@f9941",
+        "7720a4da-7f15-4330-9e79-5ca27657957a",
+        "a83f09f9-3042-4dca-a8ce-d9fb6a7bf63f",
+        "0effaff7-eae3-45ba-856a-24b151a77382"
+      ],
+      "dependScripts": []
+    }
+  },
+  "87ea1606-216e-4db0-a707-7213e2516249": {
+    "url": "db://assets/Game/Scripts/UIControllers/enemy2UICtrl.ts",
+    "value": {}
+  },
+  "3a9aea9a-5a56-4127-b6ac-61896d7d002f": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy3Normal.anim",
+    "value": {
+      "depends": [
+        "f1bfd15a-0459-46b6-9bb6-1799bcb320c8@f9941",
+        "e77e4e9d-a1a4-455b-8fd3-15a15240dc82@f9941"
+      ]
+    }
+  },
+  "51c30636-254c-49e6-bc16-820bed5acca2": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/enemy3.prefab",
+    "value": {
+      "depends": [
+        "e77e4e9d-a1a4-455b-8fd3-15a15240dc82@f9941",
+        "3a9aea9a-5a56-4127-b6ac-61896d7d002f",
+        "9fd15c8d-8ddf-4b9c-8fe9-b00bf8fc51e8",
+        "cb67144f-87fe-44c4-b04e-3fa71b558149"
+      ],
+      "dependScripts": []
+    }
+  },
+  "388e21c6-5a81-4d81-8689-d15d5ed424bb": {
+    "url": "db://assets/Game/Scripts/UIControllers/enemy3UICtrl.ts",
+    "value": {}
+  },
+  "1713072b-d049-4b27-ab35-eb01399ef5dc": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/bomb.prefab",
+    "value": {
+      "depends": [
+        "faec4faa-8b72-4cc5-a06f-ab819229a0ba@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "43509481-4603-4979-a8fa-b376efa4c785": {
+    "url": "db://assets/Game/Scripts/UIControllers/bombUICtrl.ts",
+    "value": {}
+  },
+  "d28fcfee-9872-40fd-afa3-e45b0753e3ed": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/ufo1.prefab",
+    "value": {
+      "depends": [
+        "5e4d046c-8558-48d2-a92c-9168f4c8037c@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "f4aa71d6-3e8a-455b-aa07-d5b98a6bf734": {
+    "url": "db://assets/Game/Scripts/UIControllers/ufo1UICtrl.ts",
+    "value": {}
+  },
+  "cc86c8f9-d0ac-430b-b946-e60516390920": {
+    "url": "db://assets/Game/AssetsPackage/GUI/Prefabs/ufo2.prefab",
+    "value": {
+      "depends": [
+        "fd3ac97d-93b4-4d4b-8a8e-adf119a2371c@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "3848c352-5e76-4941-b2ac-1a69a49ec31c": {
+    "url": "db://assets/Game/Scripts/UIControllers/ufo2UICtrl.ts",
+    "value": {}
+  },
+  "825248f7-a6b1-4441-b8f8-bb768181fc02": {
+    "url": "db://assets/Game/AssetsPackage/Charactors/bullet1.prefab",
+    "value": {
+      "depends": [
+        "6dea17d8-16c7-4cd8-9434-dbf77d784c7b@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "fe538287-2140-4be4-a3c1-18e33001223f": {
+    "url": "db://assets/Game/Scripts/UIControllers/bullet1UICtrl.ts",
+    "value": {}
+  },
+  "33703027-9fca-4239-8099-074107b777f8": {
+    "url": "db://assets/Game/AssetsPackage/Charactors/bullet2.prefab",
+    "value": {
+      "depends": [
+        "4d0477b0-3814-47cc-901b-1a548d920a47@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "66e146b9-e54b-418b-9e9a-704f9effe034": {
+    "url": "db://assets/Game/Scripts/UIControllers/bullet2UICtrl.ts",
+    "value": {}
+  },
+  "99766021-d2c3-485b-85c4-0903e6114c1f": {
+    "url": "db://assets/Game/Scripts/Enum.ts",
+    "value": {}
+  },
+  "ac5b8bee-b1ee-48fe-a38a-d22ab5ab0c9a": {
+    "url": "db://assets/Game/Scripts/PlayerManager.ts",
+    "value": {}
+  },
+  "2653b73a-dd66-4744-8e1f-0e0d68ea2a2e": {
+    "url": "db://assets/Game/Scripts/data",
+    "value": {}
+  },
+  "8c39936f-c751-44a9-983a-c686c729df6b": {
+    "url": "db://assets/Game/Scripts/data/Hero.ts",
+    "value": {}
+  },
+  "2e9acfac-31b4-4115-b3c2-27ded4978267": {
+    "url": "db://assets/Game/Scripts/data/Enemy.ts",
+    "value": {}
+  },
+  "50e7d093-9e35-453e-9178-ff213f04aa8d": {
+    "url": "db://assets/Game/Scripts/data/Bullet",
+    "value": {}
+  },
+  "ba136176-82e8-47d6-88ec-08f0a30b0942": {
+    "url": "db://assets/Game/Scripts/data/Bullet.ts",
+    "value": {}
+  },
+  "51b842f1-e13b-47f7-ab81-3dd85828d26c": {
+    "url": "db://assets/Game/Scripts/data/Ufo.ts",
+    "value": {}
+  },
+  "b8b5a9ca-6d10-4bcc-a3ec-aba31d812239": {
+    "url": "db://assets/Game/AssetsPackage/animate/loading.anim",
+    "value": {
+      "depends": [
+        "227e3eb3-cc4b-4940-8f2d-c6c1be2de407@f9941",
+        "0c90548a-8905-4213-b441-3adbdcbb1896@f9941",
+        "b43cac57-07d5-47ca-ae43-bd8364c97bdc@f9941",
+        "e23fd2c9-6aae-4daa-8a90-22e3636b3514@f9941"
+      ]
+    }
+  },
+  "b31fd9a2-14e6-4dc9-9468-beda21534152": {
+    "url": "db://assets/Game/AssetsPackage/animate/game_loading.anim",
+    "value": {
+      "depends": [
+        "227e3eb3-cc4b-4940-8f2d-c6c1be2de407@f9941",
+        "0c90548a-8905-4213-b441-3adbdcbb1896@f9941",
+        "b43cac57-07d5-47ca-ae43-bd8364c97bdc@f9941"
+      ]
+    }
+  },
+  "0e63b944-2020-4b00-882d-42d009c3ec98": {
+    "url": "db://assets/Game/AssetsPackage/animate/heroDie.anim",
+    "value": {
+      "depends": [
+        "e46cf7f5-074f-49f2-8ab2-59655efb003b@f9941",
+        "5fb4c51f-7e46-4a04-8397-f8e4d64d8317@f9941",
+        "44afa049-468e-4a80-b462-700901f31f0f@f9941",
+        "5e50254b-f721-43df-90c1-31673d83a281@f9941"
+      ]
+    }
+  },
+  "bcbf70a6-2afd-4c61-bfd2-30af7a93bb42": {
+    "url": "db://assets/Framework/Scripts/UI",
+    "value": {}
+  },
+  "3200c69b-f28e-4b31-876a-30b010fe3be9": {
+    "url": "db://assets/Framework/Scripts/Managers/EventManager.ts",
+    "value": {}
+  },
+  "93215b64-aa70-4956-8d03-4c538fd29633": {
+    "url": "db://assets/Framework/Scripts/Managers/ExcelManager.ts",
+    "value": {}
+  },
+  "21ef6359-4028-440d-a2dc-38d1f566307f": {
+    "url": "db://assets/Framework/Scripts/Managers/PoolManager.ts",
+    "value": {}
+  },
+  "e6aee5a1-f510-4b3a-a794-0cd61e530ccb": {
+    "url": "db://assets/Framework/Scripts/Managers/ResManager.ts",
+    "value": {}
+  },
+  "fb5b4a5e-1ae5-47b9-9f30-def8492bc364": {
+    "url": "db://assets/Framework/Scripts/Managers/SceneManager.ts",
+    "value": {}
+  },
+  "5cbd8f2a-e93e-45ea-9e22-15d2a47f357c": {
+    "url": "db://assets/Framework/Scripts/Managers/SoundManager.ts",
+    "value": {}
+  },
+  "4459fa1d-ca26-4436-8666-574c596692af": {
+    "url": "db://assets/Framework/Scripts/Managers/TimerManager.ts",
+    "value": {}
+  },
+  "75963cf9-cca5-4da4-b57d-21443eede4a0": {
+    "url": "db://assets/Framework/Scripts/Managers/UIManager.ts",
+    "value": {}
+  },
+  "18cfd874-8722-48f9-bc41-45e71a8b23f6": {
+    "url": "db://assets/Framework/Scripts/UI/UIComponent.ts",
+    "value": {}
+  },
+  "21eb5927-4ba1-4206-8403-e1c8ca353554": {
+    "url": "db://assets/Game/AssetsPackage/animate/heroHit.anim",
+    "value": {
+      "depends": [
+        "91e0153d-58f3-4fc7-b5db-b69359da864b@f9941",
+        "6753a28d-61d9-4312-ba81-3978f65baa16@f9941",
+        "e46cf7f5-074f-49f2-8ab2-59655efb003b@f9941"
+      ]
+    }
+  },
+  "1d231211-00b7-44b2-ab93-69000c699fc0": {
+    "url": "db://assets/Game/AssetsPackage/animate/heroDie.anim",
+    "value": {
+      "depends": [
+        "e46cf7f5-074f-49f2-8ab2-59655efb003b@f9941",
+        "5fb4c51f-7e46-4a04-8397-f8e4d64d8317@f9941",
+        "44afa049-468e-4a80-b462-700901f31f0f@f9941",
+        "5e50254b-f721-43df-90c1-31673d83a281@f9941"
+      ]
+    }
+  },
+  "85714b1c-4ce3-46d4-9630-3a1f1f5b901e": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy1Normal.anim",
+    "value": {
+      "depends": [
+        "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855@f9941"
+      ]
+    }
+  },
+  "12365cdd-0c3a-4be1-a504-3363d6b4a043": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy1Hit.anim",
+    "value": {
+      "depends": [
+        "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855@f9941",
+        "17c35753-403a-4fbd-bda2-b30d455959e7@f9941"
+      ]
+    }
+  },
+  "615bcdbc-1199-47cb-8c7a-0166274f2319": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy1Die.anim",
+    "value": {
+      "depends": [
+        "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855@f9941",
+        "17c35753-403a-4fbd-bda2-b30d455959e7@f9941",
+        "3f9ba9ea-09d8-4602-a659-be06d979ece7@f9941",
+        "d06b786f-e1d6-41f1-a52a-2d8c83229377@f9941",
+        "8a8d86b6-201e-4cb8-80b3-948d83582986@f9941"
+      ]
+    }
+  },
+  "7720a4da-7f15-4330-9e79-5ca27657957a": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy2Normal.anim",
+    "value": {
+      "depends": [
+        "8dfb8b1f-6aa6-4834-8cd8-b77205427e75@f9941"
+      ]
+    }
+  },
+  "a83f09f9-3042-4dca-a8ce-d9fb6a7bf63f": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy2Hit.anim",
+    "value": {
+      "depends": [
+        "8dfb8b1f-6aa6-4834-8cd8-b77205427e75@f9941",
+        "24e16570-a414-4b73-b849-1d31d284e083@f9941"
+      ]
+    }
+  },
+  "0effaff7-eae3-45ba-856a-24b151a77382": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy2Die.anim",
+    "value": {
+      "depends": [
+        "8dfb8b1f-6aa6-4834-8cd8-b77205427e75@f9941",
+        "8eff85b1-8083-42e4-9bd0-4be4eaa43c79@f9941",
+        "091f29ab-cd3b-4d5e-97e1-85c6c2954256@f9941",
+        "9d4ca3ed-dbbb-4b99-bf19-1491bdef0ae7@f9941",
+        "7d29c122-f49c-419b-be53-59e7ee22f92e@f9941"
+      ]
+    }
+  },
+  "9fd15c8d-8ddf-4b9c-8fe9-b00bf8fc51e8": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy3Hit.anim",
+    "value": {
+      "depends": [
+        "f1bfd15a-0459-46b6-9bb6-1799bcb320c8@f9941",
+        "e77e4e9d-a1a4-455b-8fd3-15a15240dc82@f9941",
+        "7b3b26e2-bc70-4abd-b7ca-679533fa38d7@f9941"
+      ]
+    }
+  },
+  "cb67144f-87fe-44c4-b04e-3fa71b558149": {
+    "url": "db://assets/Game/AssetsPackage/animate/enemy3Die.anim",
+    "value": {
+      "depends": [
+        "06f2b096-f286-4ae3-b823-c433244cde16@f9941",
+        "f3a27a9e-fca2-4ac2-a7e8-fc647c17b1df@f9941",
+        "74407fc9-dd8b-4795-953a-23420849572e@f9941",
+        "fc326bb8-494d-4468-91c7-664da0482ade@f9941",
+        "8b07c40c-db49-4a9f-9bc3-a4e2e028b867@f9941",
+        "fb36d506-0765-46a1-a29f-3a956f157831@f9941"
+      ]
+    }
+  }
+}

@@ -1,0 +1,3519 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework.meta": {
+      "time": 1691123310303.802
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework": {
+      "time": 1691123344241.6663,
+      "uuid": "ae4930bb-7af7-446c-874b-6e6ada2c5b77"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\AssetsPackage.meta": {
+      "time": 1691123319377.6653
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\AssetsPackage": {
+      "time": 1691123319375.6616,
+      "uuid": "aaa3d1bb-685f-4baf-9e28-20532b5a1915"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\Scripts.meta": {
+      "time": 1691123344243.6675
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\Scripts": {
+      "time": 1691124795061.045,
+      "uuid": "9ee9ad9e-53cd-42fe-afbb-38157a68379b"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game.meta": {
+      "time": 1691123350597.8293
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game": {
+      "time": 1691123505398.0374,
+      "uuid": "2b9a5e0f-fd1f-4e9f-bda3-bc7d276943a8"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage.meta": {
+      "time": 1691123357569.0884
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage": {
+      "time": 1691674918904.3342,
+      "uuid": "aa3ceb2b-f370-4760-a279-90a612e9916c"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\GUI.meta": {
+      "time": 1691123366262.9827
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\GUI": {
+      "time": 1691123366260.9746,
+      "uuid": "0e005a2c-cdb9-46e5-b8a8-ff7a0301fa6e"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Datas.meta": {
+      "time": 1691675009815.5337
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Datas": {
+      "time": 1691674859218.1133,
+      "uuid": "e4b16d32-064c-4653-9118-1133749bd4b0"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Charactors.meta": {
+      "time": 1691123377529.2324
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Charactors": {
+      "time": 1691123377525.6392,
+      "uuid": "34480eb2-df59-4e22-aa08-ba1e4bd26622"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Scenes.meta": {
+      "time": 1691677555935.5713
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Scenes": {
+      "time": 1691124765030.1553,
+      "uuid": "d76f8434-cd25-4c60-9a1c-417e33983e2c"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\Scripts.meta": {
+      "time": 1691123505399.0515
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\Scripts": {
+      "time": 1691124371279.401,
+      "uuid": "712a8614-ce96-4be1-98a6-eddcf1471cb9"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot.meta": {
+      "time": 1691123522405.421
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot": {
+      "time": 1691123719278.2493,
+      "uuid": "a012d260-d5e0-4119-a739-84ffabb9a676"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot\\AssetsPackage.meta": {
+      "time": 1691123714070.843
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot\\AssetsPackage": {
+      "time": 1691123796715.5908,
+      "uuid": "c0fe593d-533b-4264-9f3d-635681a36fee"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot\\Scripts.meta": {
+      "time": 1691123719279.258
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot\\Scripts": {
+      "time": 1691123875425.1692,
+      "uuid": "53d55d1b-0c31-49a0-afed-c9c48b7634e4"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot\\AssetsPackage\\startup.scene.meta": {
+      "time": 1691123796718.9868
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot\\AssetsPackage\\startup.scene": {
+      "time": 1691124736046.3066,
+      "uuid": "86c4d210-e108-4b8e-bf00-2c154a0b9316"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot\\Scripts\\Boot.ts.meta": {
+      "time": 1691123875427.438
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Boot\\Scripts\\Boot.ts": {
+      "time": 1691673745390.1892,
+      "uuid": "2ee22040-bcda-4678-8384-9761fc133c57"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\Scripts\\GameApp.ts.meta": {
+      "time": 1691124371282.66
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\Scripts\\GameApp.ts": {
+      "time": 1691678043845.1587,
+      "uuid": "7975d88a-6e79-46f9-9087-3733014e3f1b"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Scenes\\main.scene.meta": {
+      "time": 1691124765034.657
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Scenes\\main.scene": {
+      "time": 1691678045648.0159,
+      "uuid": "16662d0f-4e0a-4b6e-ae37-2726f8965add"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\Scripts\\Managers.meta": {
+      "time": 1691124795061.045
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\Scripts\\Managers": {
+      "time": 1691673615613.9307,
+      "uuid": "baa7408a-57ef-4764-9b85-18a3af3f9a1d"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\Scripts\\Managers\\SceneMgr.ts.meta": {
+      "time": 1691124807623.3667
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\Scripts\\Managers\\SceneMgr.ts": {
+      "time": 1691677858048.607,
+      "uuid": "06c246e9-143b-4151-b973-e1da1539f745"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\Scripts\\Managers\\ResMgr.ts.meta": {
+      "time": 1691673615615.9397
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Framework\\Scripts\\Managers\\ResMgr.ts": {
+      "time": 1691678228452.1182,
+      "uuid": "0b60812a-fd56-4c50-96a8-119f36c07a13"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds.meta": {
+      "time": 1691674988925.941
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds": {
+      "time": 1691674898509.6296,
+      "uuid": "b0ae6b67-cad4-4e92-b37c-7c36e88a0b41"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv.meta": {
+      "time": 1691674859231.708
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv.meta": {
+      "time": 1691674859234.7224
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv": {
+      "time": 1670660457741.0024,
+      "uuid": "f30ca510-4b65-4623-bc64-7604fc3163d3"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv": {
+      "time": 1670660638957.6055,
+      "uuid": "38236d2f-1f5b-46ae-8be9-f262dd1af6fd"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3.meta": {
+      "time": 1691674901915.9395
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3.meta": {
+      "time": 1691674901922.499
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3.meta": {
+      "time": 1691674901911.9062
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3.meta": {
+      "time": 1691674901912.9229
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3.meta": {
+      "time": 1691674901913.9385
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3.meta": {
+      "time": 1691674901940.9685
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3.meta": {
+      "time": 1691674901935.77
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3.meta": {
+      "time": 1691674901945.2886
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3.meta": {
+      "time": 1691674901936.9502
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3.meta": {
+      "time": 1691674901943.0703
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3.meta": {
+      "time": 1691674901956.244
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3.meta": {
+      "time": 1691674901958.4888
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3.meta": {
+      "time": 1691674901971.2473
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3.meta": {
+      "time": 1691674901967.2234
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3.meta": {
+      "time": 1691674901972.3281
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3.meta": {
+      "time": 1691674901983.6582
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3.meta": {
+      "time": 1691674901986.7886
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3.meta": {
+      "time": 1691674901987.796
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3.meta": {
+      "time": 1691674901991.9243
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3.meta": {
+      "time": 1691674901990.9155
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3.meta": {
+      "time": 1691674902002.8774
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3.meta": {
+      "time": 1691674902010.8877
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3.meta": {
+      "time": 1691674902013.0486
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3.meta": {
+      "time": 1691674902022.5388
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3.meta": {
+      "time": 1691674902021.5369
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3.meta": {
+      "time": 1691674902027.0938
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3.meta": {
+      "time": 1691674902029.1155
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3.meta": {
+      "time": 1691674902031.3682
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3.meta": {
+      "time": 1691674902042.1577
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3.meta": {
+      "time": 1691674902042.1577
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3.meta": {
+      "time": 1691674902043.649
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3.meta": {
+      "time": 1691674902047.9353
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3.meta": {
+      "time": 1691674902056.3252
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3.meta": {
+      "time": 1691674902065.4875
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3.meta": {
+      "time": 1691674902067.798
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3.meta": {
+      "time": 1691674902072.866
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3.meta": {
+      "time": 1691674902071.858
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3.meta": {
+      "time": 1691674902081.354
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3.meta": {
+      "time": 1691674902085.591
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3.meta": {
+      "time": 1691674902088.9485
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3.meta": {
+      "time": 1691674902092.0354
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3.meta": {
+      "time": 1691674902093.036
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3.meta": {
+      "time": 1691674902097.5583
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3": {
+      "time": 1628771773372.3555,
+      "uuid": "581f644f-4740-4bc4-99b3-82cc283ffc13"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3": {
+      "time": 1628771773374.3567,
+      "uuid": "deb5f0f0-8e42-46ad-8c2d-6132e14978cb"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3": {
+      "time": 1628771773377.3584,
+      "uuid": "3a332f6f-8848-473b-9261-fecdc825a9ee"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3": {
+      "time": 1628771773368.3545,
+      "uuid": "3bab0650-02c7-438d-932f-874d264bea9e"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3": {
+      "time": 1628771773370.3567,
+      "uuid": "2b65df33-e93f-4641-ba23-e3b76b6a5cd2"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3": {
+      "time": 1628771773383.3604,
+      "uuid": "95f5c1c3-8e04-4270-a9a4-0f47c982b2b4"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3": {
+      "time": 1628771773387.3594,
+      "uuid": "2eba8a49-f4c0-411a-8f05-5800a53446a8"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3": {
+      "time": 1628771773379.3577,
+      "uuid": "e5627c1e-b620-45b3-8f95-9b0f062d70b7"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3": {
+      "time": 1628771773389.3606,
+      "uuid": "06d6a958-3b45-4581-ba38-5ffabab1769a"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3": {
+      "time": 1628771773385.359,
+      "uuid": "a4762623-ea88-4528-90fe-c51b40ed3556"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3": {
+      "time": 1628771773391.3608,
+      "uuid": "4ccae884-a321-44f6-8cca-655f0fc61e53"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3": {
+      "time": 1628771773394.3623,
+      "uuid": "545a3046-0b9e-463d-9980-06eaf3b1fb17"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3": {
+      "time": 1628771773400.3635,
+      "uuid": "e6097f5b-2123-4ea6-9a03-842e1a9b9cd1"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3": {
+      "time": 1628771773397.361,
+      "uuid": "1fb94d7b-97b7-44ee-a00d-b1f6207ad8ed"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3": {
+      "time": 1628771773402.3628,
+      "uuid": "4242fb70-dfa4-46eb-84bb-22d1f1c2f3a3"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3": {
+      "time": 1628771773404.363,
+      "uuid": "147ac8ea-c0cd-4c08-a9b9-f74a3882f2ff"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3": {
+      "time": 1628771773406.3628,
+      "uuid": "72998e86-c804-4d3e-ba63-79a973a7d29e"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3": {
+      "time": 1628771773408.3635,
+      "uuid": "f6434c84-94e8-4685-a66e-85efac9de44f"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3": {
+      "time": 1628771773413.366,
+      "uuid": "061860f2-7177-42af-9052-6fd054858342"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3": {
+      "time": 1628771773411.3647,
+      "uuid": "d8d59905-f143-4e72-ae0a-812e0834e488"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3": {
+      "time": 1628771773417.368,
+      "uuid": "0a0d8500-0587-4f86-b455-8738676f3d5f"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3": {
+      "time": 1628771773418.3655,
+      "uuid": "66a9aab6-571c-4229-9532-74d923ac829d"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3": {
+      "time": 1628771773420.3672,
+      "uuid": "6fbe2157-ddbc-401f-aa49-1d392dbbb7b9"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3": {
+      "time": 1628771773426.3687,
+      "uuid": "9e106a1d-fe16-460d-8166-81ffefd0ba95"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3": {
+      "time": 1628771773422.3677,
+      "uuid": "f8bfe152-c7b4-4bac-afe4-7c3437492000"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3": {
+      "time": 1628771773428.3691,
+      "uuid": "430d1ffa-f7b6-447a-b89e-21dfd336da10"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3": {
+      "time": 1628771773432.3684,
+      "uuid": "a06bfe12-0d1f-44fd-a30c-5ebb551735c9"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3": {
+      "time": 1628771773434.3699,
+      "uuid": "8f26da45-2939-4199-bd0c-a959e461b8ec"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3": {
+      "time": 1628771773436.37,
+      "uuid": "b63838df-78ed-4953-b7ac-41dfce71f690"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3": {
+      "time": 1628771773438.3708,
+      "uuid": "b3f216f5-3cdc-46b4-9dda-73e256ff8d3c"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3": {
+      "time": 1628771773440.3713,
+      "uuid": "593439b2-68ca-4d35-9359-864a655b17ac"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3": {
+      "time": 1628771773442.3718,
+      "uuid": "988415f0-623e-422c-bacf-757d09e0ea20"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3": {
+      "time": 1628771773445.3728,
+      "uuid": "615fbd34-8877-45fb-8d4b-874be8c33997"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3": {
+      "time": 1628771773449.3733,
+      "uuid": "c9211b09-b209-44f5-945b-e59954c870bd"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3": {
+      "time": 1628771773451.3728,
+      "uuid": "3b80eb2e-3705-4b1e-ad18-35f0107198d4"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3": {
+      "time": 1628771773455.3738,
+      "uuid": "2735c060-bac8-4c52-9fd7-a298d1487615"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3": {
+      "time": 1628771773453.3735,
+      "uuid": "3fa0a838-e3af-48c0-8a05-95079f26a188"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3": {
+      "time": 1628771773458.3755,
+      "uuid": "aa93cadb-24f8-4fc4-b668-1be02b9810b9"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3": {
+      "time": 1628771773460.3762,
+      "uuid": "f17a2288-2eb9-429d-a323-aaba371fd839"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3": {
+      "time": 1628771773462.3772,
+      "uuid": "46a57ae5-8850-402d-8200-fca78d286465"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3": {
+      "time": 1628771773466.3762,
+      "uuid": "2f4a7232-73e7-40d3-9d01-c3c58b00e9e0"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3": {
+      "time": 1628771773468.3765,
+      "uuid": "0b0e51fb-ad2c-4b47-8e80-c2c063a89435"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3": {
+      "time": 1628771773471.378,
+      "uuid": "4880eec7-31be-407b-bda0-69e5db9e4e85"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Music.meta": {
+      "time": 1691674998297.103
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Music": {
+      "time": 1691674935366.6582,
+      "uuid": "59478ac5-9111-47da-85e4-489f49018f70"
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Music\\background.mp3.meta": {
+      "time": 1691674935398.2578
+    },
+    "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Music\\background.mp3": {
+      "time": 1628771773362.3535,
+      "uuid": "ea36f2db-7378-4f5f-a7ea-840bc2907b0e"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot": {
+      "time": 1692667884677.6687,
+      "uuid": "a012d260-d5e0-4119-a739-84ffabb9a676"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework": {
+      "time": 1692667884779.1997,
+      "uuid": "ae4930bb-7af7-446c-874b-6e6ada2c5b77"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game": {
+      "time": 1692667885787.7468,
+      "uuid": "2b9a5e0f-fd1f-4e9f-bda3-bc7d276943a8"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot\\AssetsPackage": {
+      "time": 1692667884652.1123,
+      "uuid": "c0fe593d-533b-4264-9f3d-635681a36fee"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot\\Scripts": {
+      "time": 1692667884690.4065,
+      "uuid": "53d55d1b-0c31-49a0-afed-c9c48b7634e4"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\AssetsPackage": {
+      "time": 1692667884748.436,
+      "uuid": "aaa3d1bb-685f-4baf-9e28-20532b5a1915"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts": {
+      "time": 1692667884956.6958,
+      "uuid": "9ee9ad9e-53cd-42fe-afbb-38157a68379b"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage": {
+      "time": 1692668594452.8748,
+      "uuid": "aa3ceb2b-f370-4760-a279-90a612e9916c"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts": {
+      "time": 1692676216744.7725,
+      "uuid": "712a8614-ce96-4be1-98a6-eddcf1471cb9"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers": {
+      "time": 1692673259832.5825,
+      "uuid": "baa7408a-57ef-4764-9b85-18a3af3f9a1d"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Charactors": {
+      "time": 1692667885109.5857,
+      "uuid": "34480eb2-df59-4e22-aa08-ba1e4bd26622"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Datas": {
+      "time": 1692667885152.41,
+      "uuid": "e4b16d32-064c-4653-9118-1133749bd4b0"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\GUI": {
+      "time": 1692674362821.2957,
+      "uuid": "0e005a2c-cdb9-46e5-b8a8-ff7a0301fa6e"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Scenes": {
+      "time": 1692667885228.4763,
+      "uuid": "d76f8434-cd25-4c60-9a1c-417e33983e2c"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds": {
+      "time": 1692667885765.7651,
+      "uuid": "b0ae6b67-cad4-4e92-b37c-7c36e88a0b41"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot\\Scripts\\Boot.ts": {
+      "time": 1692677521237.2356,
+      "uuid": "2ee22040-bcda-4678-8384-9761fc133c57"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\GameApp.ts": {
+      "time": 1692678429631.8992,
+      "uuid": "7975d88a-6e79-46f9-9087-3733014e3f1b"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\ResMgr.ts": {
+      "time": 1692892615638.8293,
+      "uuid": "0b60812a-fd56-4c50-96a8-119f36c07a13"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\SceneMgr.ts": {
+      "time": 1692892516109.7134,
+      "uuid": "06c246e9-143b-4151-b973-e1da1539f745"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot.meta": {
+      "time": 1691123522405.421
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework.meta": {
+      "time": 1691123310303.802
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game.meta": {
+      "time": 1691123350597.8293
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot\\AssetsPackage.meta": {
+      "time": 1691123714070.843
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot\\Scripts.meta": {
+      "time": 1691123719279.258
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\AssetsPackage.meta": {
+      "time": 1691123319377.6653
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts.meta": {
+      "time": 1691123344243.6675
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage.meta": {
+      "time": 1691123357569.0884
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts.meta": {
+      "time": 1691123505399.0515
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers.meta": {
+      "time": 1691124795061.045
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Charactors.meta": {
+      "time": 1692610266627.6191
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Datas.meta": {
+      "time": 1691675009815.5337
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\GUI.meta": {
+      "time": 1691123366262.9827
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Scenes.meta": {
+      "time": 1691677555935.5713
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds.meta": {
+      "time": 1691674988925.941
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot\\Scripts\\Boot.ts.meta": {
+      "time": 1691123875427.438
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\GameApp.ts.meta": {
+      "time": 1691124371282.66
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\ResMgr.ts.meta": {
+      "time": 1691673615615.9397
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\SceneMgr.ts.meta": {
+      "time": 1691124807623.3667
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot\\AssetsPackage\\startup.scene": {
+      "time": 1692677727835.1265,
+      "uuid": "86c4d210-e108-4b8e-bf00-2c154a0b9316"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv": {
+      "time": 1692604518282.8208,
+      "uuid": "f30ca510-4b65-4623-bc64-7604fc3163d3"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv": {
+      "time": 1692604561407.5776,
+      "uuid": "38236d2f-1f5b-46ae-8be9-f262dd1af6fd"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Scenes\\main.scene": {
+      "time": 1692610524981.7488,
+      "uuid": "16662d0f-4e0a-4b6e-ae37-2726f8965add"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3": {
+      "time": 1628771773368.3545,
+      "uuid": "3bab0650-02c7-438d-932f-874d264bea9e"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3": {
+      "time": 1628771773370.3567,
+      "uuid": "2b65df33-e93f-4641-ba23-e3b76b6a5cd2"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3": {
+      "time": 1628771773372.3555,
+      "uuid": "581f644f-4740-4bc4-99b3-82cc283ffc13"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3": {
+      "time": 1628771773374.3567,
+      "uuid": "deb5f0f0-8e42-46ad-8c2d-6132e14978cb"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3": {
+      "time": 1628771773377.3584,
+      "uuid": "3a332f6f-8848-473b-9261-fecdc825a9ee"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3": {
+      "time": 1628771773379.3577,
+      "uuid": "e5627c1e-b620-45b3-8f95-9b0f062d70b7"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3": {
+      "time": 1628771773383.3604,
+      "uuid": "95f5c1c3-8e04-4270-a9a4-0f47c982b2b4"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3": {
+      "time": 1628771773385.359,
+      "uuid": "a4762623-ea88-4528-90fe-c51b40ed3556"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3": {
+      "time": 1628771773387.3594,
+      "uuid": "2eba8a49-f4c0-411a-8f05-5800a53446a8"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3": {
+      "time": 1628771773389.3606,
+      "uuid": "06d6a958-3b45-4581-ba38-5ffabab1769a"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3": {
+      "time": 1628771773391.3608,
+      "uuid": "4ccae884-a321-44f6-8cca-655f0fc61e53"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3": {
+      "time": 1628771773394.3623,
+      "uuid": "545a3046-0b9e-463d-9980-06eaf3b1fb17"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3": {
+      "time": 1628771773397.361,
+      "uuid": "1fb94d7b-97b7-44ee-a00d-b1f6207ad8ed"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3": {
+      "time": 1628771773400.3635,
+      "uuid": "e6097f5b-2123-4ea6-9a03-842e1a9b9cd1"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3": {
+      "time": 1628771773402.3628,
+      "uuid": "4242fb70-dfa4-46eb-84bb-22d1f1c2f3a3"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3": {
+      "time": 1628771773404.363,
+      "uuid": "147ac8ea-c0cd-4c08-a9b9-f74a3882f2ff"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3": {
+      "time": 1628771773406.3628,
+      "uuid": "72998e86-c804-4d3e-ba63-79a973a7d29e"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3": {
+      "time": 1628771773408.3635,
+      "uuid": "f6434c84-94e8-4685-a66e-85efac9de44f"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3": {
+      "time": 1628771773411.3647,
+      "uuid": "d8d59905-f143-4e72-ae0a-812e0834e488"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3": {
+      "time": 1628771773413.366,
+      "uuid": "061860f2-7177-42af-9052-6fd054858342"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3": {
+      "time": 1628771773417.368,
+      "uuid": "0a0d8500-0587-4f86-b455-8738676f3d5f"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3": {
+      "time": 1628771773418.3655,
+      "uuid": "66a9aab6-571c-4229-9532-74d923ac829d"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3": {
+      "time": 1628771773420.3672,
+      "uuid": "6fbe2157-ddbc-401f-aa49-1d392dbbb7b9"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3": {
+      "time": 1628771773422.3677,
+      "uuid": "f8bfe152-c7b4-4bac-afe4-7c3437492000"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3": {
+      "time": 1628771773426.3687,
+      "uuid": "9e106a1d-fe16-460d-8166-81ffefd0ba95"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3": {
+      "time": 1628771773428.3691,
+      "uuid": "430d1ffa-f7b6-447a-b89e-21dfd336da10"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3": {
+      "time": 1628771773432.3684,
+      "uuid": "a06bfe12-0d1f-44fd-a30c-5ebb551735c9"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3": {
+      "time": 1628771773434.3699,
+      "uuid": "8f26da45-2939-4199-bd0c-a959e461b8ec"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3": {
+      "time": 1628771773436.37,
+      "uuid": "b63838df-78ed-4953-b7ac-41dfce71f690"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3": {
+      "time": 1628771773438.3708,
+      "uuid": "b3f216f5-3cdc-46b4-9dda-73e256ff8d3c"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3": {
+      "time": 1628771773440.3713,
+      "uuid": "593439b2-68ca-4d35-9359-864a655b17ac"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3": {
+      "time": 1628771773442.3718,
+      "uuid": "988415f0-623e-422c-bacf-757d09e0ea20"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3": {
+      "time": 1628771773445.3728,
+      "uuid": "615fbd34-8877-45fb-8d4b-874be8c33997"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3": {
+      "time": 1628771773449.3733,
+      "uuid": "c9211b09-b209-44f5-945b-e59954c870bd"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3": {
+      "time": 1628771773451.3728,
+      "uuid": "3b80eb2e-3705-4b1e-ad18-35f0107198d4"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3": {
+      "time": 1628771773453.3735,
+      "uuid": "3fa0a838-e3af-48c0-8a05-95079f26a188"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3": {
+      "time": 1628771773455.3738,
+      "uuid": "2735c060-bac8-4c52-9fd7-a298d1487615"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3": {
+      "time": 1628771773458.3755,
+      "uuid": "aa93cadb-24f8-4fc4-b668-1be02b9810b9"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3": {
+      "time": 1628771773460.3762,
+      "uuid": "f17a2288-2eb9-429d-a323-aaba371fd839"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3": {
+      "time": 1628771773462.3772,
+      "uuid": "46a57ae5-8850-402d-8200-fca78d286465"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3": {
+      "time": 1628771773466.3762,
+      "uuid": "2f4a7232-73e7-40d3-9d01-c3c58b00e9e0"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3": {
+      "time": 1628771773468.3765,
+      "uuid": "0b0e51fb-ad2c-4b47-8e80-c2c063a89435"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3": {
+      "time": 1628771773471.378,
+      "uuid": "4880eec7-31be-407b-bda0-69e5db9e4e85"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Scenes\\main.scene.meta": {
+      "time": 1691124765034.657
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv.meta": {
+      "time": 1691674859231.708
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Boot\\AssetsPackage\\startup.scene.meta": {
+      "time": 1691123796718.9868
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv.meta": {
+      "time": 1691674859234.7224
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3.meta": {
+      "time": 1691674901911.9062
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3.meta": {
+      "time": 1691674901915.9395
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3.meta": {
+      "time": 1691674901922.499
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3.meta": {
+      "time": 1691674901912.9229
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3.meta": {
+      "time": 1691674901940.9685
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3.meta": {
+      "time": 1691674901935.77
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3.meta": {
+      "time": 1691674901913.9385
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3.meta": {
+      "time": 1691674901936.9502
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3.meta": {
+      "time": 1691674901945.2886
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3.meta": {
+      "time": 1691674901943.0703
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3.meta": {
+      "time": 1691674901956.244
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3.meta": {
+      "time": 1691674901958.4888
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3.meta": {
+      "time": 1691674901967.2234
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3.meta": {
+      "time": 1691674901971.2473
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3.meta": {
+      "time": 1691674901972.3281
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3.meta": {
+      "time": 1691674901986.7886
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3.meta": {
+      "time": 1691674901983.6582
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3.meta": {
+      "time": 1691674901991.9243
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3.meta": {
+      "time": 1691674901987.796
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3.meta": {
+      "time": 1691674902010.8877
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3.meta": {
+      "time": 1691674901990.9155
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3.meta": {
+      "time": 1691674902002.8774
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3.meta": {
+      "time": 1691674902013.0486
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3.meta": {
+      "time": 1691674902022.5388
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3.meta": {
+      "time": 1691674902029.1155
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3.meta": {
+      "time": 1691674902021.5369
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3.meta": {
+      "time": 1691674902027.0938
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3.meta": {
+      "time": 1691674902042.1577
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3.meta": {
+      "time": 1691674902031.3682
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3.meta": {
+      "time": 1691674902043.649
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3.meta": {
+      "time": 1691674902042.1577
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3.meta": {
+      "time": 1691674902065.4875
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3.meta": {
+      "time": 1691674902047.9353
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3.meta": {
+      "time": 1691674902056.3252
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3.meta": {
+      "time": 1691674902067.798
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3.meta": {
+      "time": 1691674902072.866
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3.meta": {
+      "time": 1691674902071.858
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3.meta": {
+      "time": 1691674902085.591
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3.meta": {
+      "time": 1691674902081.354
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3.meta": {
+      "time": 1691674902092.0354
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3.meta": {
+      "time": 1691674902088.9485
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3.meta": {
+      "time": 1691674902093.036
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3.meta": {
+      "time": 1691674902097.5583
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils.meta": {
+      "time": 1692325877038.0337
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils": {
+      "time": 1692667885000.1174,
+      "uuid": "fa72205d-843f-4f05-9eac-402a1cefdb54"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\GameUtils.ts.meta": {
+      "time": 1692327108241.6772
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\GameUtils.ts": {
+      "time": 1692342102982.2798,
+      "uuid": "106b0271-fc80-481c-84d5-67f5eca2b915"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\RandomUtils.ts.meta": {
+      "time": 1692326563831.9495
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\RandomUtils.ts": {
+      "time": 1692341295390.318,
+      "uuid": "19c5cb7e-38da-401b-a46c-ef9b87dc35f0"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\CocosUtils.ts.meta": {
+      "time": 1692327927575.4402
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\CocosUtils.ts": {
+      "time": 1692497981901.5835,
+      "uuid": "0d428502-adfb-4dfb-a745-511879c8044d"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\Debug.ts.meta": {
+      "time": 1692345415301.7158
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\Debug.ts": {
+      "time": 1692600101185.5586,
+      "uuid": "6694b9a0-5403-496d-9634-488b99b3cade"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\AssetsPackage\\Debug.meta": {
+      "time": 1692346415334.6182
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\AssetsPackage\\Debug": {
+      "time": 1692667884758.9868,
+      "uuid": "28969dcd-204c-4ef7-9e58-b237ce519d2d"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\AssetsPackage\\Debug\\DebugWindow.prefab.meta": {
+      "time": 1692346246059.6365
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\AssetsPackage\\Debug\\DebugWindow.prefab": {
+      "time": 1692348404800.4165,
+      "uuid": "416df073-9169-4e41-a078-687d5c20db68"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\EventMgr.ts.meta": {
+      "time": 1692363977932.9414
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\EventMgr.ts": {
+      "time": 1692365111970.956,
+      "uuid": "50f45955-54c3-4428-abb4-8fddb695e170"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\TimerMgr.ts.meta": {
+      "time": 1692412345056.8298
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\HttpUtils.ts.meta": {
+      "time": 1692430540021.322
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\HttpUtils.ts": {
+      "time": 1692431419462.6804,
+      "uuid": "2197c372-0288-4910-bd83-43b34e2ace12"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\SoundMgr.ts.meta": {
+      "time": 1692496293412.7883
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\SoundMgr.ts": {
+      "time": 1692499837444.8228,
+      "uuid": "c6195d97-344a-416f-85e7-f3bfadde1e87"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Musics.meta": {
+      "time": 1692499015347.642
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Musics": {
+      "time": 1692667885197.8352,
+      "uuid": "59478ac5-9111-47da-85e4-489f49018f70"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Musics\\background.mp3.meta": {
+      "time": 1691674935398.2578
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Musics\\background.mp3": {
+      "time": 1628771773362.3535,
+      "uuid": "ea36f2db-7378-4f5f-a7ea-840bc2907b0e"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\3rd.meta": {
+      "time": 1692599995516.756
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\3rd": {
+      "time": 1692667884826.128,
+      "uuid": "3e2ff84a-9e8b-4dbc-aa78-cd2962f4f5e2"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\3rd\\CSVParser.ts.meta": {
+      "time": 1692600008975.1926
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\3rd\\CSVParser.ts": {
+      "time": 1692603184311.5742,
+      "uuid": "1c43ce96-4e44-4ff5-85fe-b3ff27fd2ab3"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\ExcelMgr.ts.meta": {
+      "time": 1692600050536.8042
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\ExcelMgr.ts": {
+      "time": 1692604128654.5054,
+      "uuid": "b53cc557-a801-43a5-bb7c-39e73e8e1b19"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\NodePoolMgr.ts.meta": {
+      "time": 1692608979397.8152
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\NodePoolMgr.ts": {
+      "time": 1692610885883.3503,
+      "uuid": "be9fdb60-9f79-4ad9-a6f6-9616295e300e"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Charactors\\Player.prefab.meta": {
+      "time": 1692610244481.6594
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Charactors\\Player.prefab": {
+      "time": 1692610244472.1038,
+      "uuid": "bb21dd27-41f3-43b4-b41a-c4594ec9bfe7"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\WsNetMgr.ts.meta": {
+      "time": 1692619707155.6577
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\WsNetMgr.ts": {
+      "time": 1692623390017.5894,
+      "uuid": "abfae780-bf77-4e82-bd59-e66133409d64"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Protos.meta": {
+      "time": 1692668594454.1343
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Protos": {
+      "time": 1692668702279.4192,
+      "uuid": "f0413398-867d-496f-b954-f9878890068d"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Protos\\common.proto.meta": {
+      "time": 1692668702296.7688
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Protos\\common.proto": {
+      "time": 1686582583000,
+      "uuid": "5b354a04-bc59-4207-b873-876937cdf4e8"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Protobuf.meta": {
+      "time": 1692668940679.8772
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Protobuf\\pb.d.ts.meta": {
+      "time": 1692668940679.8772
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Protobuf": {
+      "time": 1692668940682.453,
+      "uuid": "b37a9e65-ecc0-475d-b5aa-7fe64d54f038"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Protobuf\\pb.d.ts": {
+      "time": 1692668934376.0935,
+      "uuid": "06642f7a-8cc1-4b8c-884e-018d00a6a78b"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Protobuf\\package.json.meta": {
+      "time": 1692668940693.1375
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Protobuf\\pb.js.meta": {
+      "time": 1692668940688.5579
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Protobuf\\pb.js": {
+      "time": 1692668934753.8892,
+      "uuid": "e312b7be-1b48-4dc8-879b-af9c4ab45546"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Protobuf\\package.json": {
+      "time": 1692668934754.8914,
+      "uuid": "91acf2c4-b951-4fd7-b67d-6ef61b31f366"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Utils.meta": {
+      "time": 1692669853868.983
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Utils": {
+      "time": 1692669863423.6936,
+      "uuid": "dc114923-2b19-4d91-bd14-58b8cb73f2ef"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Utils\\ProtobufUtils.ts.meta": {
+      "time": 1692669863425.7244
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\Utils\\ProtobufUtils.ts": {
+      "time": 1692670629096.4285,
+      "uuid": "f94b0280-f0e1-4500-bf7c-98571b31f685"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Managers\\UIMgr.ts.meta": {
+      "time": 1692673259835.1562
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\GUI\\Prefabs.meta": {
+      "time": 1692674377416.0706
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\GUI\\Prefabs": {
+      "time": 1692674366620.901,
+      "uuid": "ee2aa130-3586-4ae6-ad48-0912a6fb2c82"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab.meta": {
+      "time": 1692674366625.0007
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab": {
+      "time": 1692677824620.8042,
+      "uuid": "9dea37e0-bc46-45d9-b49b-c47cf08f8c0d"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\UIControllers.meta": {
+      "time": 1692676216745.7725
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\UIControllers": {
+      "time": 1692677647204.9265,
+      "uuid": "b45ef6c9-2005-4033-af39-39e16c07e168"
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\UIControllers\\UIGame_UICtrl.ts.meta": {
+      "time": 1692677647206.9397
+    },
+    "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\UIControllers\\UIGame_UICtrl.ts": {
+      "time": 1692678383514.6077,
+      "uuid": "52c96046-612a-402c-b14f-b8e48c8a9272"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot": {
+      "time": 1693548484243.6257,
+      "uuid": "a012d260-d5e0-4119-a739-84ffabb9a676"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework": {
+      "time": 1693548484257.6145,
+      "uuid": "ae4930bb-7af7-446c-874b-6e6ada2c5b77"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game": {
+      "time": 1693548484578.257,
+      "uuid": "2b9a5e0f-fd1f-4e9f-bda3-bc7d276943a8"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\AssetsPackage": {
+      "time": 1693548484240.6335,
+      "uuid": "c0fe593d-533b-4264-9f3d-635681a36fee"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\Scripts": {
+      "time": 1693548484245.62,
+      "uuid": "53d55d1b-0c31-49a0-afed-c9c48b7634e4"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage": {
+      "time": 1693548484254.5967,
+      "uuid": "aaa3d1bb-685f-4baf-9e28-20532b5a1915"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts": {
+      "time": 1693548484288.5056,
+      "uuid": "9ee9ad9e-53cd-42fe-afbb-38157a68379b"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage": {
+      "time": 1693548484455.5864,
+      "uuid": "aa3ceb2b-f370-4760-a279-90a612e9916c"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts": {
+      "time": 1693548484652.0598,
+      "uuid": "712a8614-ce96-4be1-98a6-eddcf1471cb9"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage\\Debug": {
+      "time": 1693548484256.6191,
+      "uuid": "28969dcd-204c-4ef7-9e58-b237ce519d2d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\3rd": {
+      "time": 1693548484266.5637,
+      "uuid": "3e2ff84a-9e8b-4dbc-aa78-cd2962f4f5e2"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers": {
+      "time": 1693548484287.5078,
+      "uuid": "baa7408a-57ef-4764-9b85-18a3af3f9a1d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils": {
+      "time": 1693548846737.6335,
+      "uuid": "fa72205d-843f-4f05-9eac-402a1cefdb54"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Charactors": {
+      "time": 1693548484403.1985,
+      "uuid": "34480eb2-df59-4e22-aa08-ba1e4bd26622"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas": {
+      "time": 1693548484424.1433,
+      "uuid": "e4b16d32-064c-4653-9118-1133749bd4b0"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI": {
+      "time": 1693548484433.3125,
+      "uuid": "0e005a2c-cdb9-46e5-b8a8-ff7a0301fa6e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Musics": {
+      "time": 1693548484442.0952,
+      "uuid": "59478ac5-9111-47da-85e4-489f49018f70"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Protos": {
+      "time": 1693548484447.0815,
+      "uuid": "f0413398-867d-496f-b954-f9878890068d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Scenes": {
+      "time": 1693548484453.066,
+      "uuid": "d76f8434-cd25-4c60-9a1c-417e33983e2c"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds": {
+      "time": 1693548484571.277,
+      "uuid": "b0ae6b67-cad4-4e92-b37c-7c36e88a0b41"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf": {
+      "time": 1693548484626.1296,
+      "uuid": "b37a9e65-ecc0-475d-b5aa-7fe64d54f038"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\UIControllers": {
+      "time": 1693548484646.077,
+      "uuid": "b45ef6c9-2005-4033-af39-39e16c07e168"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Utils": {
+      "time": 1693548484678.9885,
+      "uuid": "dc114923-2b19-4d91-bd14-58b8cb73f2ef"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI\\Prefabs": {
+      "time": 1693548484436.1118,
+      "uuid": "ee2aa130-3586-4ae6-ad48-0912a6fb2c82"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\Scripts\\Boot.ts": {
+      "time": 1692677521237.2356,
+      "uuid": "2ee22040-bcda-4678-8384-9761fc133c57"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\GameApp.ts": {
+      "time": 1692678429631.8992,
+      "uuid": "7975d88a-6e79-46f9-9087-3733014e3f1b"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\3rd\\CSVParser.ts": {
+      "time": 1692603184311.5742,
+      "uuid": "1c43ce96-4e44-4ff5-85fe-b3ff27fd2ab3"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\Debug.ts": {
+      "time": 1692600101185.5586,
+      "uuid": "6694b9a0-5403-496d-9634-488b99b3cade"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\EventMgr.ts": {
+      "time": 1692365111970.956,
+      "uuid": "50f45955-54c3-4428-abb4-8fddb695e170"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\ExcelMgr.ts": {
+      "time": 1692604128654.5054,
+      "uuid": "b53cc557-a801-43a5-bb7c-39e73e8e1b19"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\NodePoolMgr.ts": {
+      "time": 1693021112333.359,
+      "uuid": "be9fdb60-9f79-4ad9-a6f6-9616295e300e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\ResMgr.ts": {
+      "time": 1693058710186.4104,
+      "uuid": "0b60812a-fd56-4c50-96a8-119f36c07a13"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\SceneMgr.ts": {
+      "time": 1692892516109.7134,
+      "uuid": "06c246e9-143b-4151-b973-e1da1539f745"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\SoundMgr.ts": {
+      "time": 1692499837444.8228,
+      "uuid": "c6195d97-344a-416f-85e7-f3bfadde1e87"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\WsNetMgr.ts": {
+      "time": 1692623390017.5894,
+      "uuid": "abfae780-bf77-4e82-bd59-e66133409d64"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\CocosUtils.ts": {
+      "time": 1692497981901.5835,
+      "uuid": "0d428502-adfb-4dfb-a745-511879c8044d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\GameUtils.ts": {
+      "time": 1692342102982.2798,
+      "uuid": "106b0271-fc80-481c-84d5-67f5eca2b915"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\HttpUtils.ts": {
+      "time": 1692431419462.6804,
+      "uuid": "2197c372-0288-4910-bd83-43b34e2ace12"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\Opacity3D.ts": {
+      "time": 1693442027093.9167,
+      "uuid": "ae333720-a257-4d81-b7b1-f56ac7d2ee56"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\RandomUtils.ts": {
+      "time": 1692341295390.318,
+      "uuid": "19c5cb7e-38da-401b-a46c-ef9b87dc35f0"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\pb.d.ts": {
+      "time": 1692668934376.0935,
+      "uuid": "06642f7a-8cc1-4b8c-884e-018d00a6a78b"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\UIControllers\\UIGame_UICtrl.ts": {
+      "time": 1692678383514.6077,
+      "uuid": "52c96046-612a-402c-b14f-b8e48c8a9272"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Utils\\ProtobufUtils.ts": {
+      "time": 1692670629096.4285,
+      "uuid": "f94b0280-f0e1-4500-bf7c-98571b31f685"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot.meta": {
+      "time": 1691123522405.421
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework.meta": {
+      "time": 1691123310303.802
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game.meta": {
+      "time": 1691123350597.8293
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\AssetsPackage.meta": {
+      "time": 1691123714070.843
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\Scripts.meta": {
+      "time": 1691123719279.258
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage.meta": {
+      "time": 1691123319377.6653
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts.meta": {
+      "time": 1691123344243.6675
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage.meta": {
+      "time": 1691123357569.0884
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts.meta": {
+      "time": 1691123505399.0515
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage\\Debug.meta": {
+      "time": 1692346415334.6182
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\3rd.meta": {
+      "time": 1692599995516.756
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers.meta": {
+      "time": 1691124795061.045
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils.meta": {
+      "time": 1692325877038.0337
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Charactors.meta": {
+      "time": 1692610266627.6191
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas.meta": {
+      "time": 1691675009815.5337
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI.meta": {
+      "time": 1691123366262.9827
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Musics.meta": {
+      "time": 1692499015347.642
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Protos.meta": {
+      "time": 1692668594454.1343
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Scenes.meta": {
+      "time": 1691677555935.5713
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds.meta": {
+      "time": 1691674988925.941
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf.meta": {
+      "time": 1692668940679.8772
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\UIControllers.meta": {
+      "time": 1692676216745.7725
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Utils.meta": {
+      "time": 1692669853868.983
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI\\Prefabs.meta": {
+      "time": 1692674377416.0706
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\Scripts\\Boot.ts.meta": {
+      "time": 1691123875427.438
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\GameApp.ts.meta": {
+      "time": 1691124371282.66
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\3rd\\CSVParser.ts.meta": {
+      "time": 1692600008975.1926
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\Debug.ts.meta": {
+      "time": 1692345415301.7158
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\EventMgr.ts.meta": {
+      "time": 1692363977932.9414
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\ExcelMgr.ts.meta": {
+      "time": 1692600050536.8042
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\NodePoolMgr.ts.meta": {
+      "time": 1692608979397.8152
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\ResMgr.ts.meta": {
+      "time": 1691673615615.9397
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\SceneMgr.ts.meta": {
+      "time": 1691124807623.3667
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\SoundMgr.ts.meta": {
+      "time": 1692496293412.7883
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\TimerMgr.ts.meta": {
+      "time": 1692412345056.8298
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\UIMgr.ts.meta": {
+      "time": 1692673259835.1562
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\WsNetMgr.ts.meta": {
+      "time": 1692619707155.6577
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\CocosUtils.ts.meta": {
+      "time": 1692327927575.4402
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\GameUtils.ts.meta": {
+      "time": 1692327108241.6772
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\pb.d.ts.meta": {
+      "time": 1692668940679.8772
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\HttpUtils.ts.meta": {
+      "time": 1692430540021.322
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\Opacity3D.ts.meta": {
+      "time": 1693548846760.6887
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Utils\\RandomUtils.ts.meta": {
+      "time": 1692326563831.9495
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\UIControllers\\UIGame_UICtrl.ts.meta": {
+      "time": 1692677647206.9397
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Utils\\ProtobufUtils.ts.meta": {
+      "time": 1692669863425.7244
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\AssetsPackage\\startup.scene": {
+      "time": 1692677727835.1265,
+      "uuid": "86c4d210-e108-4b8e-bf00-2c154a0b9316"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage\\Debug\\DebugWindow.prefab": {
+      "time": 1692348404800.4165,
+      "uuid": "416df073-9169-4e41-a078-687d5c20db68"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Charactors\\Player.prefab": {
+      "time": 1692610244472.1038,
+      "uuid": "bb21dd27-41f3-43b4-b41a-c4594ec9bfe7"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv": {
+      "time": 1692604518282.8208,
+      "uuid": "f30ca510-4b65-4623-bc64-7604fc3163d3"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv": {
+      "time": 1692604561407.5776,
+      "uuid": "38236d2f-1f5b-46ae-8be9-f262dd1af6fd"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Musics\\background.mp3": {
+      "time": 1628771773362.3535,
+      "uuid": "ea36f2db-7378-4f5f-a7ea-840bc2907b0e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Protos\\common.proto": {
+      "time": 1686582583000,
+      "uuid": "5b354a04-bc59-4207-b873-876937cdf4e8"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Scenes\\main.scene": {
+      "time": 1692610524981.7488,
+      "uuid": "16662d0f-4e0a-4b6e-ae37-2726f8965add"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3": {
+      "time": 1628771773368.3545,
+      "uuid": "3bab0650-02c7-438d-932f-874d264bea9e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3": {
+      "time": 1628771773370.3567,
+      "uuid": "2b65df33-e93f-4641-ba23-e3b76b6a5cd2"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3": {
+      "time": 1628771773372.3555,
+      "uuid": "581f644f-4740-4bc4-99b3-82cc283ffc13"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3": {
+      "time": 1628771773374.3567,
+      "uuid": "deb5f0f0-8e42-46ad-8c2d-6132e14978cb"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3": {
+      "time": 1628771773377.3584,
+      "uuid": "3a332f6f-8848-473b-9261-fecdc825a9ee"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3": {
+      "time": 1628771773379.3577,
+      "uuid": "e5627c1e-b620-45b3-8f95-9b0f062d70b7"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3": {
+      "time": 1628771773383.3604,
+      "uuid": "95f5c1c3-8e04-4270-a9a4-0f47c982b2b4"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3": {
+      "time": 1628771773385.359,
+      "uuid": "a4762623-ea88-4528-90fe-c51b40ed3556"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3": {
+      "time": 1628771773387.3594,
+      "uuid": "2eba8a49-f4c0-411a-8f05-5800a53446a8"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3": {
+      "time": 1628771773389.3606,
+      "uuid": "06d6a958-3b45-4581-ba38-5ffabab1769a"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3": {
+      "time": 1628771773391.3608,
+      "uuid": "4ccae884-a321-44f6-8cca-655f0fc61e53"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3": {
+      "time": 1628771773394.3623,
+      "uuid": "545a3046-0b9e-463d-9980-06eaf3b1fb17"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3": {
+      "time": 1628771773397.361,
+      "uuid": "1fb94d7b-97b7-44ee-a00d-b1f6207ad8ed"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3": {
+      "time": 1628771773400.3635,
+      "uuid": "e6097f5b-2123-4ea6-9a03-842e1a9b9cd1"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3": {
+      "time": 1628771773402.3628,
+      "uuid": "4242fb70-dfa4-46eb-84bb-22d1f1c2f3a3"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3": {
+      "time": 1628771773404.363,
+      "uuid": "147ac8ea-c0cd-4c08-a9b9-f74a3882f2ff"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3": {
+      "time": 1628771773406.3628,
+      "uuid": "72998e86-c804-4d3e-ba63-79a973a7d29e"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3": {
+      "time": 1628771773408.3635,
+      "uuid": "f6434c84-94e8-4685-a66e-85efac9de44f"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3": {
+      "time": 1628771773411.3647,
+      "uuid": "d8d59905-f143-4e72-ae0a-812e0834e488"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3": {
+      "time": 1628771773413.366,
+      "uuid": "061860f2-7177-42af-9052-6fd054858342"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3": {
+      "time": 1628771773417.368,
+      "uuid": "0a0d8500-0587-4f86-b455-8738676f3d5f"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3": {
+      "time": 1628771773418.3655,
+      "uuid": "66a9aab6-571c-4229-9532-74d923ac829d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3": {
+      "time": 1628771773420.3672,
+      "uuid": "6fbe2157-ddbc-401f-aa49-1d392dbbb7b9"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3": {
+      "time": 1628771773422.3677,
+      "uuid": "f8bfe152-c7b4-4bac-afe4-7c3437492000"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3": {
+      "time": 1628771773426.3687,
+      "uuid": "9e106a1d-fe16-460d-8166-81ffefd0ba95"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3": {
+      "time": 1628771773428.3691,
+      "uuid": "430d1ffa-f7b6-447a-b89e-21dfd336da10"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3": {
+      "time": 1628771773432.3684,
+      "uuid": "a06bfe12-0d1f-44fd-a30c-5ebb551735c9"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3": {
+      "time": 1628771773434.3699,
+      "uuid": "8f26da45-2939-4199-bd0c-a959e461b8ec"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3": {
+      "time": 1628771773436.37,
+      "uuid": "b63838df-78ed-4953-b7ac-41dfce71f690"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3": {
+      "time": 1628771773438.3708,
+      "uuid": "b3f216f5-3cdc-46b4-9dda-73e256ff8d3c"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3": {
+      "time": 1628771773440.3713,
+      "uuid": "593439b2-68ca-4d35-9359-864a655b17ac"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3": {
+      "time": 1628771773442.3718,
+      "uuid": "988415f0-623e-422c-bacf-757d09e0ea20"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3": {
+      "time": 1628771773445.3728,
+      "uuid": "615fbd34-8877-45fb-8d4b-874be8c33997"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3": {
+      "time": 1628771773449.3733,
+      "uuid": "c9211b09-b209-44f5-945b-e59954c870bd"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3": {
+      "time": 1628771773451.3728,
+      "uuid": "3b80eb2e-3705-4b1e-ad18-35f0107198d4"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3": {
+      "time": 1628771773453.3735,
+      "uuid": "3fa0a838-e3af-48c0-8a05-95079f26a188"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3": {
+      "time": 1628771773455.3738,
+      "uuid": "2735c060-bac8-4c52-9fd7-a298d1487615"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3": {
+      "time": 1628771773458.3755,
+      "uuid": "aa93cadb-24f8-4fc4-b668-1be02b9810b9"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3": {
+      "time": 1628771773460.3762,
+      "uuid": "f17a2288-2eb9-429d-a323-aaba371fd839"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3": {
+      "time": 1628771773462.3772,
+      "uuid": "46a57ae5-8850-402d-8200-fca78d286465"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3": {
+      "time": 1628771773466.3762,
+      "uuid": "2f4a7232-73e7-40d3-9d01-c3c58b00e9e0"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3": {
+      "time": 1628771773468.3765,
+      "uuid": "0b0e51fb-ad2c-4b47-8e80-c2c063a89435"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3": {
+      "time": 1628771773471.378,
+      "uuid": "4880eec7-31be-407b-bda0-69e5db9e4e85"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\package.json": {
+      "time": 1692668934754.8914,
+      "uuid": "91acf2c4-b951-4fd7-b67d-6ef61b31f366"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\pb.js": {
+      "time": 1692668934753.8892,
+      "uuid": "e312b7be-1b48-4dc8-879b-af9c4ab45546"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab": {
+      "time": 1692677824620.8042,
+      "uuid": "9dea37e0-bc46-45d9-b49b-c47cf08f8c0d"
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Charactors\\Player.prefab.meta": {
+      "time": 1692610244481.6594
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv.meta": {
+      "time": 1691674859234.7224
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\AssetsPackage\\Debug\\DebugWindow.prefab.meta": {
+      "time": 1692346246059.6365
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv.meta": {
+      "time": 1691674859231.708
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Protos\\common.proto.meta": {
+      "time": 1692668702296.7688
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Scenes\\main.scene.meta": {
+      "time": 1691124765034.657
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Boot\\AssetsPackage\\startup.scene.meta": {
+      "time": 1691123796718.9868
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Musics\\background.mp3.meta": {
+      "time": 1691674935398.2578
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3.meta": {
+      "time": 1691674901915.9395
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3.meta": {
+      "time": 1691674901912.9229
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3.meta": {
+      "time": 1691674901922.499
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3.meta": {
+      "time": 1691674901911.9062
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3.meta": {
+      "time": 1691674901913.9385
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3.meta": {
+      "time": 1691674901940.9685
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3.meta": {
+      "time": 1691674901935.77
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3.meta": {
+      "time": 1691674901936.9502
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3.meta": {
+      "time": 1691674901945.2886
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3.meta": {
+      "time": 1691674901943.0703
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3.meta": {
+      "time": 1691674901956.244
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3.meta": {
+      "time": 1691674901958.4888
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3.meta": {
+      "time": 1691674901967.2234
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3.meta": {
+      "time": 1691674901971.2473
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3.meta": {
+      "time": 1691674901972.3281
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3.meta": {
+      "time": 1691674901983.6582
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3.meta": {
+      "time": 1691674901986.7886
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3.meta": {
+      "time": 1691674901991.9243
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3.meta": {
+      "time": 1691674901987.796
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3.meta": {
+      "time": 1691674902002.8774
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3.meta": {
+      "time": 1691674901990.9155
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3.meta": {
+      "time": 1691674902010.8877
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3.meta": {
+      "time": 1691674902013.0486
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3.meta": {
+      "time": 1691674902022.5388
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3.meta": {
+      "time": 1691674902021.5369
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3.meta": {
+      "time": 1691674902027.0938
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3.meta": {
+      "time": 1691674902029.1155
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3.meta": {
+      "time": 1691674902031.3682
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3.meta": {
+      "time": 1691674902042.1577
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3.meta": {
+      "time": 1691674902043.649
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3.meta": {
+      "time": 1691674902042.1577
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3.meta": {
+      "time": 1691674902047.9353
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3.meta": {
+      "time": 1691674902056.3252
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3.meta": {
+      "time": 1691674902065.4875
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3.meta": {
+      "time": 1691674902072.866
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3.meta": {
+      "time": 1691674902071.858
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3.meta": {
+      "time": 1691674902081.354
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3.meta": {
+      "time": 1691674902067.798
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3.meta": {
+      "time": 1691674902085.591
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3.meta": {
+      "time": 1691674902088.9485
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\pb.js.meta": {
+      "time": 1692668940688.5579
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3.meta": {
+      "time": 1691674902097.5583
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\Scripts\\Protobuf\\package.json.meta": {
+      "time": 1692668940693.1375
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3.meta": {
+      "time": 1691674902092.0354
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3.meta": {
+      "time": 1691674902093.036
+    },
+    "D:\\work\\cc_framework\\Client3.8\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab.meta": {
+      "time": 1692674366625.0007
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot": {
+      "time": 1694662383667.7097,
+      "uuid": "a012d260-d5e0-4119-a739-84ffabb9a676"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework": {
+      "time": 1694675011274.7957,
+      "uuid": "ae4930bb-7af7-446c-874b-6e6ada2c5b77"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game": {
+      "time": 1694662383921.7373,
+      "uuid": "2b9a5e0f-fd1f-4e9f-bda3-bc7d276943a8"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot\\AssetsPackage": {
+      "time": 1694662383667.7097,
+      "uuid": "c0fe593d-533b-4264-9f3d-635681a36fee"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot\\Scripts": {
+      "time": 1694662383668.7068,
+      "uuid": "53d55d1b-0c31-49a0-afed-c9c48b7634e4"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\AssetsPackage": {
+      "time": 1694674581994.2397,
+      "uuid": "aaa3d1bb-685f-4baf-9e28-20532b5a1915"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts": {
+      "time": 1694674582034.1338,
+      "uuid": "9ee9ad9e-53cd-42fe-afbb-38157a68379b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage": {
+      "time": 1695017743236.0776,
+      "uuid": "aa3ceb2b-f370-4760-a279-90a612e9916c"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts": {
+      "time": 1694662383992.688,
+      "uuid": "712a8614-ce96-4be1-98a6-eddcf1471cb9"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\AssetsPackage\\Debug": {
+      "time": 1694674581997.2322,
+      "uuid": "28969dcd-204c-4ef7-9e58-b237ce519d2d"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\3rd": {
+      "time": 1694674582006.2363,
+      "uuid": "3e2ff84a-9e8b-4dbc-aa78-cd2962f4f5e2"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers": {
+      "time": 1694674582029.147,
+      "uuid": "baa7408a-57ef-4764-9b85-18a3af3f9a1d"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils": {
+      "time": 1694674582044.107,
+      "uuid": "fa72205d-843f-4f05-9eac-402a1cefdb54"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Charactors": {
+      "time": 1694662383710.5947,
+      "uuid": "34480eb2-df59-4e22-aa08-ba1e4bd26622"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Datas": {
+      "time": 1694662383712.5894,
+      "uuid": "e4b16d32-064c-4653-9118-1133749bd4b0"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\fonts": {
+      "time": 1694662383857.9082,
+      "uuid": "5207ebdd-1e26-4c00-a63c-76eadf758e86"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI": {
+      "time": 1694662383712.5894,
+      "uuid": "0e005a2c-cdb9-46e5-b8a8-ff7a0301fa6e"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Musics": {
+      "time": 1694662383763.4531,
+      "uuid": "59478ac5-9111-47da-85e4-489f49018f70"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Protos": {
+      "time": 1694662383764.4514,
+      "uuid": "f0413398-867d-496f-b954-f9878890068d"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Scenes": {
+      "time": 1694662383767.4426,
+      "uuid": "d76f8434-cd25-4c60-9a1c-417e33983e2c"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot": {
+      "time": 1694662383886.8308,
+      "uuid": "d98af194-9734-4986-94d0-022283798b2c"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background": {
+      "time": 1694662383892.8147,
+      "uuid": "44b0e9ef-7b01-4895-b47e-1aa24ef64487"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds": {
+      "time": 1695017709641.8433,
+      "uuid": "b0ae6b67-cad4-4e92-b37c-7c36e88a0b41"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Protobuf": {
+      "time": 1694662383950.7998,
+      "uuid": "b37a9e65-ecc0-475d-b5aa-7fe64d54f038"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers": {
+      "time": 1694674489749.3765,
+      "uuid": "b45ef6c9-2005-4033-af39-39e16c07e168"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Utils": {
+      "time": 1694662383992.688,
+      "uuid": "dc114923-2b19-4d91-bd14-58b8cb73f2ef"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs": {
+      "time": 1694826325919.7043,
+      "uuid": "ee2aa130-3586-4ae6-ad48-0912a6fb2c82"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot\\Scripts\\Boot.ts": {
+      "time": 1694675241947.4045,
+      "uuid": "2ee22040-bcda-4678-8384-9761fc133c57"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\GameApp.ts": {
+      "time": 1694675200033.9412,
+      "uuid": "7975d88a-6e79-46f9-9087-3733014e3f1b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\3rd\\CSVParser.ts": {
+      "time": 1692603184311.5742,
+      "uuid": "1c43ce96-4e44-4ff5-85fe-b3ff27fd2ab3"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\Debug.ts": {
+      "time": 1694671240251.9922,
+      "uuid": "6694b9a0-5403-496d-9634-488b99b3cade"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\WsNetMgr.ts": {
+      "time": 1694671364479.7231,
+      "uuid": "abfae780-bf77-4e82-bd59-e66133409d64"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\CocosUtils.ts": {
+      "time": 1694672772221.3816,
+      "uuid": "0d428502-adfb-4dfb-a745-511879c8044d"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\GameUtils.ts": {
+      "time": 1692342102982.2798,
+      "uuid": "106b0271-fc80-481c-84d5-67f5eca2b915"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\HttpUtils.ts": {
+      "time": 1692431419462.6804,
+      "uuid": "2197c372-0288-4910-bd83-43b34e2ace12"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\Opacity3D.ts": {
+      "time": 1693442027093.9167,
+      "uuid": "ae333720-a257-4d81-b7b1-f56ac7d2ee56"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\RandomUtils.ts": {
+      "time": 1692341295390.318,
+      "uuid": "19c5cb7e-38da-401b-a46c-ef9b87dc35f0"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Protobuf\\pb.d.ts": {
+      "time": 1694662383949.8025,
+      "uuid": "06642f7a-8cc1-4b8c-884e-018d00a6a78b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Utils\\ProtobufUtils.ts": {
+      "time": 1694662383992.688,
+      "uuid": "f94b0280-f0e1-4500-bf7c-98571b31f685"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot.meta": {
+      "time": 1694662383666.7122
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework.meta": {
+      "time": 1694662383668.7068
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game.meta": {
+      "time": 1694662383695.6348
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot\\AssetsPackage.meta": {
+      "time": 1694662383666.7122
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot\\Scripts.meta": {
+      "time": 1694662383667.7097
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\AssetsPackage.meta": {
+      "time": 1694675011274.7957
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts.meta": {
+      "time": 1694675011221.7412
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage.meta": {
+      "time": 1694662383696.632
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts.meta": {
+      "time": 1694662383921.7373
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\AssetsPackage\\Debug.meta": {
+      "time": 1692346415334.6182
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\3rd.meta": {
+      "time": 1692599995516.756
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers.meta": {
+      "time": 1691124795061.045
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils.meta": {
+      "time": 1692325877038.0337
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Charactors.meta": {
+      "time": 1694662383696.632
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Datas.meta": {
+      "time": 1694662383710.5947
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\fonts.meta": {
+      "time": 1694662383849.9294
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI.meta": {
+      "time": 1694662383712.5894
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Musics.meta": {
+      "time": 1694662383760.462
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Protos.meta": {
+      "time": 1694662383763.4531
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Scenes.meta": {
+      "time": 1694662383764.4514
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot.meta": {
+      "time": 1694662383857.9082
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background.meta": {
+      "time": 1694662383886.8308
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds.meta": {
+      "time": 1694662383768.44
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Protobuf.meta": {
+      "time": 1694662383948.8052
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers.meta": {
+      "time": 1694662383950.7998
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Utils.meta": {
+      "time": 1694662383991.6904
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs.meta": {
+      "time": 1694662383712.5894
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot\\Scripts\\Boot.ts.meta": {
+      "time": 1694662383668.7068
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\GameApp.ts.meta": {
+      "time": 1694662383947.8086
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\3rd\\CSVParser.ts.meta": {
+      "time": 1692600008975.1926
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\Debug.ts.meta": {
+      "time": 1692345415301.7158
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\WsNetMgr.ts.meta": {
+      "time": 1692619707155.6577
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\CocosUtils.ts.meta": {
+      "time": 1692327927575.4402
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\GameUtils.ts.meta": {
+      "time": 1692327108241.6772
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Protobuf\\pb.d.ts.meta": {
+      "time": 1694662383949.8025
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\HttpUtils.ts.meta": {
+      "time": 1692430540021.322
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\Opacity3D.ts.meta": {
+      "time": 1694662134251.0278
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Utils\\RandomUtils.ts.meta": {
+      "time": 1692326563831.9495
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Utils\\ProtobufUtils.ts.meta": {
+      "time": 1694662383992.688
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot\\AssetsPackage\\startup.scene": {
+      "time": 1694662383666.7122,
+      "uuid": "86c4d210-e108-4b8e-bf00-2c154a0b9316"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\AssetsPackage\\Debug\\DebugWindow.prefab": {
+      "time": 1692348404800.4165,
+      "uuid": "416df073-9169-4e41-a078-687d5c20db68"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Charactors\\Player.prefab": {
+      "time": 1694662383696.632,
+      "uuid": "bb21dd27-41f3-43b4-b41a-c4594ec9bfe7"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv": {
+      "time": 1694662383711.592,
+      "uuid": "f30ca510-4b65-4623-bc64-7604fc3163d3"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv": {
+      "time": 1694662383711.592,
+      "uuid": "38236d2f-1f5b-46ae-8be9-f262dd1af6fd"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\fonts\\arial.ttf": {
+      "time": 1694662383857.9082,
+      "uuid": "f2363f4f-6a5e-4de3-8ba1-461d84fd98f4"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\fonts\\Marker Felt.ttf": {
+      "time": 1694662383850.9268,
+      "uuid": "f69ef469-0a6d-4b4a-89a3-dacf13005aa3"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Musics\\background.mp3": {
+      "time": 1694662383763.4531,
+      "uuid": "ea36f2db-7378-4f5f-a7ea-840bc2907b0e"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Protos\\common.proto": {
+      "time": 1694662383763.4531,
+      "uuid": "5b354a04-bc59-4207-b873-876937cdf4e8"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Scenes\\main.scene": {
+      "time": 1694662383767.4426,
+      "uuid": "16662d0f-4e0a-4b6e-ae37-2726f8965add"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\bomb.png": {
+      "time": 1694662383858.9055,
+      "uuid": "faec4faa-8b72-4cc5-a06f-ab819229a0ba"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\bullet1.png": {
+      "time": 1694662383858.9055,
+      "uuid": "6dea17d8-16c7-4cd8-9434-dbf77d784c7b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\bullet2.png": {
+      "time": 1694662383859.903,
+      "uuid": "4d0477b0-3814-47cc-901b-1a548d920a47"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1.png": {
+      "time": 1694662383860.9001,
+      "uuid": "7d75a7d9-bb4b-458b-a58a-2e5ec6cfa855"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1_down1.png": {
+      "time": 1694662383861.8975,
+      "uuid": "17c35753-403a-4fbd-bda2-b30d455959e7"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1_down2.png": {
+      "time": 1694662383861.8975,
+      "uuid": "3f9ba9ea-09d8-4602-a659-be06d979ece7"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1_down3.png": {
+      "time": 1694662383862.8948,
+      "uuid": "d06b786f-e1d6-41f1-a52a-2d8c83229377"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1_down4.png": {
+      "time": 1694662383862.8948,
+      "uuid": "8a8d86b6-201e-4cb8-80b3-948d83582986"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2.png": {
+      "time": 1694662383863.8928,
+      "uuid": "8dfb8b1f-6aa6-4834-8cd8-b77205427e75"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_down1.png": {
+      "time": 1694662383864.8894,
+      "uuid": "8eff85b1-8083-42e4-9bd0-4be4eaa43c79"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_down2.png": {
+      "time": 1694662383865.8867,
+      "uuid": "091f29ab-cd3b-4d5e-97e1-85c6c2954256"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_down3.png": {
+      "time": 1694662383866.884,
+      "uuid": "9d4ca3ed-dbbb-4b99-bf19-1491bdef0ae7"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_down4.png": {
+      "time": 1694662383866.884,
+      "uuid": "7d29c122-f49c-419b-be53-59e7ee22f92e"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_hit.png": {
+      "time": 1694662383867.8813,
+      "uuid": "24e16570-a414-4b73-b849-1d31d284e083"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down1.png": {
+      "time": 1694662383868.8787,
+      "uuid": "06f2b096-f286-4ae3-b823-c433244cde16"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down2.png": {
+      "time": 1694662383869.8762,
+      "uuid": "f3a27a9e-fca2-4ac2-a7e8-fc647c17b1df"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down3.png": {
+      "time": 1694662383870.8735,
+      "uuid": "74407fc9-dd8b-4795-953a-23420849572e"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down4.png": {
+      "time": 1694662383871.8706,
+      "uuid": "fc326bb8-494d-4468-91c7-664da0482ade"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down5.png": {
+      "time": 1694662383872.869,
+      "uuid": "8b07c40c-db49-4a9f-9bc3-a4e2e028b867"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down6.png": {
+      "time": 1694662383873.8655,
+      "uuid": "fb36d506-0765-46a1-a29f-3a956f157831"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_hit.png": {
+      "time": 1694662383874.863,
+      "uuid": "7b3b26e2-bc70-4abd-b7ca-679533fa38d7"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_n1.png": {
+      "time": 1694662383875.86,
+      "uuid": "f1bfd15a-0459-46b6-9bb6-1799bcb320c8"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_n2.png": {
+      "time": 1694662383876.8574,
+      "uuid": "e77e4e9d-a1a4-455b-8fd3-15a15240dc82"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\game_pause_nor.png": {
+      "time": 1694662383877.8547,
+      "uuid": "d9088c1b-dac5-43f2-be87-8d752b207b02"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\game_pause_pressed.png": {
+      "time": 1694662383877.8547,
+      "uuid": "e7eab781-2579-4e86-b96c-ea79335ac757"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\game_resume_nor.png": {
+      "time": 1694662383878.852,
+      "uuid": "159060ed-7969-4d3a-84d0-62aa70ae3356"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\game_resume_pressed.png": {
+      "time": 1694662383879.8494,
+      "uuid": "302d5a34-8c8b-4666-a428-eb86f038cb3b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero1.png": {
+      "time": 1694662383880.8467,
+      "uuid": "91e0153d-58f3-4fc7-b5db-b69359da864b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero2.png": {
+      "time": 1694662383880.8467,
+      "uuid": "6753a28d-61d9-4312-ba81-3978f65baa16"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero_blowup_n1.png": {
+      "time": 1694662383881.844,
+      "uuid": "e46cf7f5-074f-49f2-8ab2-59655efb003b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero_blowup_n2.png": {
+      "time": 1694662383882.8416,
+      "uuid": "5fb4c51f-7e46-4a04-8397-f8e4d64d8317"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero_blowup_n3.png": {
+      "time": 1694662383883.8389,
+      "uuid": "44afa049-468e-4a80-b462-700901f31f0f"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero_blowup_n4.png": {
+      "time": 1694662383884.8362,
+      "uuid": "5e50254b-f721-43df-90c1-31673d83a281"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\ufo1.png": {
+      "time": 1694662383885.8335,
+      "uuid": "5e4d046c-8558-48d2-a92c-9168f4c8037c"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\ufo2.png": {
+      "time": 1694662383885.8335,
+      "uuid": "fd3ac97d-93b4-4d4b-8a8e-adf119a2371c"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\background.png": {
+      "time": 1694662383887.828,
+      "uuid": "7e5b68b6-8152-4064-adb3-448f6228e443"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\btn_finish.png": {
+      "time": 1694662383887.828,
+      "uuid": "3edaaafb-ac2c-4e53-8914-76dd74773214"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\gameover.png": {
+      "time": 1694662383891.8176,
+      "uuid": "df88db74-5fbf-4a1c-b5b0-87b6127391ed"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\game_loading1.png": {
+      "time": 1694662383888.8254,
+      "uuid": "227e3eb3-cc4b-4940-8f2d-c6c1be2de407"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\game_loading2.png": {
+      "time": 1694662383888.8254,
+      "uuid": "0c90548a-8905-4213-b441-3adbdcbb1896"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\game_loading3.png": {
+      "time": 1694662383889.8228,
+      "uuid": "b43cac57-07d5-47ca-ae43-bd8364c97bdc"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\game_loading4.png": {
+      "time": 1694662383890.82,
+      "uuid": "e23fd2c9-6aae-4daa-8a90-22e3636b3514"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\shoot_copyright.png": {
+      "time": 1694662383892.8147,
+      "uuid": "9293c8b9-0c81-4076-9845-638b01d935e3"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Protobuf\\package.json": {
+      "time": 1694662383948.8052,
+      "uuid": "91acf2c4-b951-4fd7-b67d-6ef61b31f366"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Protobuf\\pb.js": {
+      "time": 1694662383950.7998,
+      "uuid": "e312b7be-1b48-4dc8-879b-af9c4ab45546"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Datas\\fruit.csv.meta": {
+      "time": 1694662383712.5894
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Charactors\\Player.prefab.meta": {
+      "time": 1694662383696.632
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Boot\\AssetsPackage\\startup.scene.meta": {
+      "time": 1694662383667.7097
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\AssetsPackage\\Debug\\DebugWindow.prefab.meta": {
+      "time": 1692346246059.6365
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Datas\\fragment.csv.meta": {
+      "time": 1694662383711.592
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\fonts\\Marker Felt.ttf.meta": {
+      "time": 1694662383850.9268
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Protos\\common.proto.meta": {
+      "time": 1694662383764.4514
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Scenes\\main.scene.meta": {
+      "time": 1694662383767.4426
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\fonts\\arial.ttf.meta": {
+      "time": 1694662383857.9082
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\bomb.png.meta": {
+      "time": 1694662383858.9055
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Musics\\background.mp3.meta": {
+      "time": 1694662383763.4531
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\bullet1.png.meta": {
+      "time": 1694662383859.903
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\bullet2.png.meta": {
+      "time": 1694662383860.9001
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1.png.meta": {
+      "time": 1694662383860.9001
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1_down1.png.meta": {
+      "time": 1694662383861.8975
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1_down2.png.meta": {
+      "time": 1694662383861.8975
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1_down3.png.meta": {
+      "time": 1694662383862.8948
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy1_down4.png.meta": {
+      "time": 1694662383863.8928
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2.png.meta": {
+      "time": 1694662383863.8928
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_down1.png.meta": {
+      "time": 1694662383864.8894
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_down2.png.meta": {
+      "time": 1694662383865.8867
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_down4.png.meta": {
+      "time": 1694662383867.8813
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_down3.png.meta": {
+      "time": 1694662383866.884
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy2_hit.png.meta": {
+      "time": 1694662383867.8813
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down1.png.meta": {
+      "time": 1694662383868.8787
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down2.png.meta": {
+      "time": 1694662383870.8735
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down3.png.meta": {
+      "time": 1694662383871.8706
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down4.png.meta": {
+      "time": 1694662383872.869
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down5.png.meta": {
+      "time": 1694662383873.8655
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_down6.png.meta": {
+      "time": 1694662383874.863
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_hit.png.meta": {
+      "time": 1694662383874.863
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_n1.png.meta": {
+      "time": 1694662383875.86
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\enemy3_n2.png.meta": {
+      "time": 1694662383876.8574
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\game_pause_nor.png.meta": {
+      "time": 1694662383877.8547
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\game_pause_pressed.png.meta": {
+      "time": 1694662383878.852
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\game_resume_nor.png.meta": {
+      "time": 1694662383878.852
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\game_resume_pressed.png.meta": {
+      "time": 1694662383879.8494
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero1.png.meta": {
+      "time": 1694662383880.8467
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero2.png.meta": {
+      "time": 1694662383881.844
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero_blowup_n1.png.meta": {
+      "time": 1694662383881.844
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero_blowup_n3.png.meta": {
+      "time": 1694662383883.8389
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero_blowup_n4.png.meta": {
+      "time": 1694662383884.8362
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\hero_blowup_n2.png.meta": {
+      "time": 1694662383882.8416
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\ufo1.png.meta": {
+      "time": 1694662383885.8335
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\ufo2.png.meta": {
+      "time": 1694662383886.8308
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\background.png.meta": {
+      "time": 1694662383887.828
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\btn_finish.png.meta": {
+      "time": 1694662383888.8254
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\game_loading1.png.meta": {
+      "time": 1694662383888.8254
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\gameover.png.meta": {
+      "time": 1694662383891.8176
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\game_loading2.png.meta": {
+      "time": 1694662383889.8228
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\game_loading3.png.meta": {
+      "time": 1694662383889.8228
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\shoot_copyright.png.meta": {
+      "time": 1694662383892.8147
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\game_loading4.png.meta": {
+      "time": 1694662383890.82
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Protobuf\\pb.js.meta": {
+      "time": 1694662383950.7998
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Protobuf\\package.json.meta": {
+      "time": 1694662383949.8025
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Scenes\\game.scene.meta": {
+      "time": 1694662383767.4426
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Scenes\\game.scene": {
+      "time": 1694662383766.4749,
+      "uuid": "74dc2256-9e2f-4bce-b8e1-225b7eea2f70"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIMain.prefab.meta": {
+      "time": 1694662383724.5574
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIMain.prefab": {
+      "time": 1694662383723.5876,
+      "uuid": "9dea37e0-bc46-45d9-b49b-c47cf08f8c0d"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\UIMain_UICtrl.ts.meta": {
+      "time": 1694662383958.78
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\UIMain_UICtrl.ts": {
+      "time": 1694674643915.6233,
+      "uuid": "52c96046-612a-402c-b14f-b8e48c8a9272"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab.meta": {
+      "time": 1694662383713.5867
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab": {
+      "time": 1695021346212.7458,
+      "uuid": "dd269d95-6a59-4f22-870f-cf36f618be49"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate.meta": {
+      "time": 1694662383802.281
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate": {
+      "time": 1694774413290.077,
+      "uuid": "ae1ce6cd-0377-43d3-b264-35fa31b74937"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\heroNormal.anim.meta": {
+      "time": 1694662383841.9524
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\heroNormal.anim": {
+      "time": 1694662383840.9807,
+      "uuid": "e3784eb7-abac-43ed-8f01-5771d96eeac2"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\hero.prefab.meta": {
+      "time": 1694662383744.504
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\hero.prefab": {
+      "time": 1694827568313.715,
+      "uuid": "af1731f3-248b-426f-b19e-117d6f746f23"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\enemy1.prefab.meta": {
+      "time": 1694662383731.5388
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\enemy1.prefab": {
+      "time": 1694773558411.1252,
+      "uuid": "2e3aa7aa-a528-4ce3-bfda-c2a7a2575715"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\enemy2.prefab.meta": {
+      "time": 1694662383739.5173
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\enemy2.prefab": {
+      "time": 1694774200276.8313,
+      "uuid": "6b582eeb-e23f-456f-9ccd-6e1628695c8d"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy3Normal.anim.meta": {
+      "time": 1694662383823.9988
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy3Normal.anim": {
+      "time": 1694774604266.2783,
+      "uuid": "3a9aea9a-5a56-4127-b6ac-61896d7d002f"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\enemy3.prefab.meta": {
+      "time": 1694662383743.507
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\enemy3.prefab": {
+      "time": 1694774606874.5437,
+      "uuid": "51c30636-254c-49e6-bc16-820bed5acca2"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\bomb.prefab.meta": {
+      "time": 1694662383730.5417
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\bomb.prefab": {
+      "time": 1694662383730.5417,
+      "uuid": "1713072b-d049-4b27-ab35-eb01399ef5dc"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\ufo1.prefab.meta": {
+      "time": 1694662383753.5073
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\ufo1.prefab": {
+      "time": 1694662383753.5073,
+      "uuid": "d28fcfee-9872-40fd-afa3-e45b0753e3ed"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\ufo2.prefab.meta": {
+      "time": 1694662383760.462
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\ufo2.prefab": {
+      "time": 1694662383760.462,
+      "uuid": "cc86c8f9-d0ac-430b-b946-e60516390920"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\shoot.pac.meta": {
+      "time": 1694662383884.8362
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\shoot.pac": {
+      "time": 1694662383884.8362,
+      "uuid": "2fc49e68-e2ca-443f-af8f-3610ea6f1933"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\shoot_background.pac.meta": {
+      "time": 1694662383891.8176
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\shoot_background.pac": {
+      "time": 1694662383891.8176,
+      "uuid": "42d0da1c-e2e6-4dd5-9fb5-cc8e90798036"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Enum.ts.meta": {
+      "time": 1694662383922.7346
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\Enum.ts": {
+      "time": 1694662383922.7346,
+      "uuid": "99766021-d2c3-485b-85c4-0903e6114c1f"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\PlayerManager.ts.meta": {
+      "time": 1694662383948.8052
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\PlayerManager.ts": {
+      "time": 1694953631265.2869,
+      "uuid": "ac5b8bee-b1ee-48fe-a38a-d22ab5ab0c9a"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Charactors\\bullet1.prefab.meta": {
+      "time": 1694662383700.6538
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Charactors\\bullet1.prefab": {
+      "time": 1694662383700.6538,
+      "uuid": "825248f7-a6b1-4441-b8f8-bb768181fc02"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data.meta": {
+      "time": 1694662383992.688
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data": {
+      "time": 1694662383995.68,
+      "uuid": "2653b73a-dd66-4744-8e1f-0e0d68ea2a2e"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Hero.ts.meta": {
+      "time": 1694662383994.6826
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Hero.ts": {
+      "time": 1694955742561.8513,
+      "uuid": "8c39936f-c751-44a9-983a-c686c729df6b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Enemy.ts.meta": {
+      "time": 1694662383994.6826
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Enemy.ts": {
+      "time": 1694662383993.6853,
+      "uuid": "2e9acfac-31b4-4115-b3c2-27ded4978267"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Bullet.ts.meta": {
+      "time": 1694662383993.6853
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Bullet.ts": {
+      "time": 1694662383993.6853,
+      "uuid": "ba136176-82e8-47d6-88ec-08f0a30b0942"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Ufo.ts.meta": {
+      "time": 1694662383995.68
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Ufo.ts": {
+      "time": 1694662383994.6826,
+      "uuid": "51b842f1-e13b-47f7-ab81-3dd85828d26c"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Charactors\\bullet2.prefab.meta": {
+      "time": 1694662383710.5947
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Charactors\\bullet2.prefab": {
+      "time": 1694662383709.5974,
+      "uuid": "33703027-9fca-4239-8099-074107b777f8"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\loading.anim.meta": {
+      "time": 1694662383847.9348
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\loading.anim": {
+      "time": 1694662383847.9348,
+      "uuid": "b8b5a9ca-6d10-4bcc-a3ec-aba31d812239"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\game_loading.anim.meta": {
+      "time": 1694662383836.964
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\game_loading.anim": {
+      "time": 1694829816557.473,
+      "uuid": "b31fd9a2-14e6-4dc9-9468-beda21534152"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\heroDie.anim.meta": {
+      "time": 1694748721722.328
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\UI.meta": {
+      "time": 1694670745754.475
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\EventManager.ts.meta": {
+      "time": 1694671376263.275
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\ExcelManager.ts.meta": {
+      "time": 1692600050536.8042
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\PoolManager.ts.meta": {
+      "time": 1694671298292.8857
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\ResManager.ts.meta": {
+      "time": 1691673615615.9397
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\SceneManager.ts.meta": {
+      "time": 1691124807623.3667
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\SoundManager.ts.meta": {
+      "time": 1694671105724.9612
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\TimerManager.ts.meta": {
+      "time": 1694670922859.1753
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\UIManager.ts.meta": {
+      "time": 1694670691117.2678
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\UI\\UIComponent.ts.meta": {
+      "time": 1694670752811.8887
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\UI": {
+      "time": 1694674582033.1357,
+      "uuid": "bcbf70a6-2afd-4c61-bfd2-30af7a93bb42"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\EventManager.ts": {
+      "time": 1694831645986.3816,
+      "uuid": "50f45955-54c3-4428-abb4-8fddb695e170"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\ExcelManager.ts": {
+      "time": 1694672087752.0813,
+      "uuid": "b53cc557-a801-43a5-bb7c-39e73e8e1b19"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\PoolManager.ts": {
+      "time": 1694672574066.5981,
+      "uuid": "be9fdb60-9f79-4ad9-a6f6-9616295e300e"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\ResManager.ts": {
+      "time": 1694672657165.8037,
+      "uuid": "0b60812a-fd56-4c50-96a8-119f36c07a13"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\SceneManager.ts": {
+      "time": 1694672689193.71,
+      "uuid": "06c246e9-143b-4151-b973-e1da1539f745"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\SoundManager.ts": {
+      "time": 1694672706979.2954,
+      "uuid": "c6195d97-344a-416f-85e7-f3bfadde1e87"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\TimerManager.ts": {
+      "time": 1694670921328.4363,
+      "uuid": "4459fa1d-ca26-4436-8666-574c596692af"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\UIManager.ts": {
+      "time": 1694671524359.7913,
+      "uuid": "75963cf9-cca5-4da4-b57d-21443eede4a0"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\UI\\UIComponent.ts": {
+      "time": 1694831762784.2253,
+      "uuid": "18cfd874-8722-48f9-bc41-45e71a8b23f6"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bombUICtrl.ts.meta": {
+      "time": 1694662383965.76
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bullet1UICtrl.ts.meta": {
+      "time": 1694662383970.7742
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bullet2UICtrl.ts.meta": {
+      "time": 1694662383979.7224
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy1UICtrl.ts.meta": {
+      "time": 1694662383980.7197
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy2UICtrl.ts.meta": {
+      "time": 1694662383981.7173
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy3UICtrl.ts.meta": {
+      "time": 1694662383982.7146
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\heroUICtrl.ts.meta": {
+      "time": 1694662383982.7146
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\ufo1UICtrl.ts.meta": {
+      "time": 1694662383990.7222
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\ufo2UICtrl.ts.meta": {
+      "time": 1694662383991.6904
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\UIGameUICtrl.ts.meta": {
+      "time": 1694662383958.78
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bombUICtrl.ts": {
+      "time": 1695018428868.7632,
+      "uuid": "43509481-4603-4979-a8fa-b376efa4c785"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bullet1UICtrl.ts": {
+      "time": 1694954519609.0264,
+      "uuid": "fe538287-2140-4be4-a3c1-18e33001223f"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bullet2UICtrl.ts": {
+      "time": 1694954511710.607,
+      "uuid": "66e146b9-e54b-418b-9e9a-704f9effe034"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy1UICtrl.ts": {
+      "time": 1695017989525.9211,
+      "uuid": "5f65f1d3-bc24-4c37-901a-1f8651d17fb0"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy2UICtrl.ts": {
+      "time": 1695018036549.1877,
+      "uuid": "87ea1606-216e-4db0-a707-7213e2516249"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy3UICtrl.ts": {
+      "time": 1695018039347.2964,
+      "uuid": "388e21c6-5a81-4d81-8689-d15d5ed424bb"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\heroUICtrl.ts": {
+      "time": 1694956090898.6184,
+      "uuid": "f246f5b5-bad0-42da-baa2-5a9bfcd10132"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\ufo1UICtrl.ts": {
+      "time": 1695018402679.129,
+      "uuid": "f4aa71d6-3e8a-455b-aa07-d5b98a6bf734"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\ufo2UICtrl.ts": {
+      "time": 1695020319185.601,
+      "uuid": "3848c352-5e76-4941-b2ac-1a69a49ec31c"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\UIGameUICtrl.ts": {
+      "time": 1695021418855.7717,
+      "uuid": "3ed8165d-7a9f-43f5-87b4-49a4bd5ae787"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\heroHit.anim.meta": {
+      "time": 1694748704100.0312
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\heroHit.anim": {
+      "time": 1694748910779.3315,
+      "uuid": "21eb5927-4ba1-4206-8403-e1c8ca353554"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\heroDie.anim": {
+      "time": 1694748960857.9204,
+      "uuid": "1d231211-00b7-44b2-ab93-69000c699fc0"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy1Normal.anim.meta": {
+      "time": 1694749513241.0974
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy1Normal.anim": {
+      "time": 1694750178388.0132,
+      "uuid": "85714b1c-4ce3-46d4-9630-3a1f1f5b901e"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy1Hit.anim.meta": {
+      "time": 1694749546150.5242
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy1Hit.anim": {
+      "time": 1694750218130.6958,
+      "uuid": "12365cdd-0c3a-4be1-a504-3363d6b4a043"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy1Die.anim.meta": {
+      "time": 1694749579015.6614
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy1Die.anim": {
+      "time": 1694750261906.9036,
+      "uuid": "615bcdbc-1199-47cb-8c7a-0166274f2319"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy2Normal.anim.meta": {
+      "time": 1694773907629.259
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy2Normal.anim": {
+      "time": 1694774091611.723,
+      "uuid": "7720a4da-7f15-4330-9e79-5ca27657957a"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy2Hit.anim.meta": {
+      "time": 1694773932456.5688
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy2Hit.anim": {
+      "time": 1694774155508.4038,
+      "uuid": "a83f09f9-3042-4dca-a8ce-d9fb6a7bf63f"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy2Die.anim.meta": {
+      "time": 1694774049103.7524
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy2Die.anim": {
+      "time": 1694774194252.618,
+      "uuid": "0effaff7-eae3-45ba-856a-24b151a77382"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy3Hit.anim.meta": {
+      "time": 1694774396036.4995
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy3Hit.anim": {
+      "time": 1694774558430.4922,
+      "uuid": "9fd15c8d-8ddf-4b9c-8fe9-b00bf8fc51e8"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy3Die.anim.meta": {
+      "time": 1694774413291.074
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\enemy3Die.anim": {
+      "time": 1694774592957.2715,
+      "uuid": "cb67144f-87fe-44c4-b04e-3fa71b558149"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\achievement.wav.meta": {
+      "time": 1694662383893.812
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\big_spaceship_flying.wav.meta": {
+      "time": 1694662383895.8066
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bullet.wav.meta": {
+      "time": 1694662383895.8066
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\button.wav.meta": {
+      "time": 1694662383896.804
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\enemy1_down.wav.meta": {
+      "time": 1694662383897.8015
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\enemy2_down.wav.meta": {
+      "time": 1694662383899.796
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\enemy3_down.wav.meta": {
+      "time": 1694662383900.7932
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\game_music.wav.meta": {
+      "time": 1694662383915.755
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\game_over.wav.meta": {
+      "time": 1694662383917.7488
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\get_bomb.wav.meta": {
+      "time": 1694662383918.7454
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\get_double_laser.wav.meta": {
+      "time": 1694662383919.7427
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\out_porp.wav.meta": {
+      "time": 1694662383920.74
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\use_bomb.wav.meta": {
+      "time": 1694662383921.7373
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\button.wav": {
+      "time": 1694662383896.804,
+      "uuid": "831591c6-ec14-4a45-baf1-814b55d0a09a"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\achievement.wav": {
+      "time": 1694662383893.812,
+      "uuid": "54a405cc-bde6-4703-a432-0cdae3cb5a2a"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bullet.wav": {
+      "time": 1694662383895.8066,
+      "uuid": "9e07b836-3105-47dd-85ef-b44890731b5a"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\enemy1_down.wav": {
+      "time": 1694662383897.8015,
+      "uuid": "30f20cf0-eae5-4aad-ad44-d2ae8a8c3823"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\big_spaceship_flying.wav": {
+      "time": 1694662383894.8093,
+      "uuid": "cd143bc2-77dd-4f6f-986c-3ffe2b3214f4"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\get_bomb.wav": {
+      "time": 1694662383917.7488,
+      "uuid": "ee4a256c-3812-4dad-bad6-ee633a3c9867"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\game_over.wav": {
+      "time": 1694662383916.7695,
+      "uuid": "07a40a9f-8dab-4d0b-a952-4871fd3fa8b9"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\game_music.wav": {
+      "time": 1694662383915.755,
+      "uuid": "57329959-8227-48e6-8fdb-8a24b6c295bb"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\enemy3_down.wav": {
+      "time": 1694662383899.796,
+      "uuid": "1473a2ab-ca53-452b-b995-c4d68b249095"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\out_porp.wav": {
+      "time": 1694662383920.74,
+      "uuid": "e0223349-f28c-4743-ae6b-bc5a9a9fb88a"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\get_double_laser.wav": {
+      "time": 1694662383919.7427,
+      "uuid": "eea48e5e-1847-43a2-a963-ae449fd6d51b"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\use_bomb.wav": {
+      "time": 1694662383921.7373,
+      "uuid": "9df2f214-6900-41f5-aa7d-0d7010be4e9a"
+    },
+    "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\enemy2_down.wav": {
+      "time": 1694662383898.7988,
+      "uuid": "d4b612f7-a2ab-48b6-8bc4-adb82405eb9d"
+    }
+  },
+  "missing": {
+    "34480eb2-df59-4e22-aa08-ba1e4bd26622": {
+      "path": "D:\\Home\\workspace\\CCFramework\\assets\\Game\\AssetsPackage\\Models",
+      "time": 1691123377525.6392,
+      "removeTime": 1691123385599
+    },
+    "19c5cb7e-38da-401b-a46c-ef9b87dc35f0": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\RandomUtil.ts",
+      "time": 1692327160487.1853,
+      "removeTime": 1692327167832
+    },
+    "106b0271-fc80-481c-84d5-67f5eca2b915": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Framework\\Scripts\\Utils\\GameUtil.ts",
+      "time": 1692327154791.246,
+      "removeTime": 1692327165297
+    },
+    "59478ac5-9111-47da-85e4-489f49018f70": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Music",
+      "time": 1691674935366.6582,
+      "removeTime": 1692499018594
+    },
+    "ea36f2db-7378-4f5f-a7ea-840bc2907b0e": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\Music\\background.mp3",
+      "time": 1628771773362.3535,
+      "removeTime": 1692499018595
+    },
+    "c8b4157b-a357-4a04-b5fd-4c43d6fd3310": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game",
+      "time": 1692589232201.2979,
+      "removeTime": 1692591244999
+    },
+    "505dab1a-f900-42ab-9130-2312b6568794": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\shader",
+      "time": 1692588766121.8972,
+      "removeTime": 1692591244999
+    },
+    "108341c8-795d-487f-99af-e351f75732d9": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\shader\\CircleAvatar.effect",
+      "time": 1692559796000,
+      "removeTime": 1692591244999
+    },
+    "1f1dca05-8255-4d56-af1d-51e858e868ad": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\shader\\CircleAvatar.mtl",
+      "time": 1692559796000,
+      "removeTime": 1692591244999
+    },
+    "66ba45b9-42fb-43c4-8385-4ab071e7dfb5": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\start",
+      "time": 1692589228541.8936,
+      "removeTime": 1692591244999
+    },
+    "5bb7688d-be8c-45e9-bc07-ca7413984e08": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\start\\images",
+      "time": 1692589228537.8457,
+      "removeTime": 1692591244999
+    },
+    "874bcaa5-a170-45a9-a661-9bdf533d0533": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\start\\shaders",
+      "time": 1692589228553.6035,
+      "removeTime": 1692591244999
+    },
+    "0e468356-89a5-462e-9026-10dd5d180eac": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\start\\shaders\\mask-sprite.effect",
+      "time": 1692589884386.622,
+      "removeTime": 1692591244999
+    },
+    "63fa0fd2-c9e5-48f1-bdea-6b853838de78": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\start\\images\\head.png",
+      "time": 1692559966000,
+      "removeTime": 1692591244999
+    },
+    "0c791f16-a0ce-43d3-a2b7-e3110a089cdc": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\AssetsPackage\\game\\start\\shaders\\mask-sprite.mtl",
+      "time": 1692589670366.1606,
+      "removeTime": 1692591244999
+    },
+    "8d65c496-6a6a-4fe1-9519-5f35aa22acd6": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\UIControllers",
+      "time": 1692675953617.2449,
+      "removeTime": 1692676156999
+    },
+    "e4f99181-45da-4293-bd81-5a7eab45ab80": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\UIControllers\\UIHome_UICtrl.ts",
+      "time": 1692676316692.5427,
+      "removeTime": 1692676378704
+    },
+    "8e63a092-5e0f-4e5f-a341-4cd9c118e168": {
+      "path": "D:\\Home\\workspace\\BycwCocosFramework\\assets\\Game\\Scripts\\UIControllers\\UIHome_UICtrl.ts",
+      "time": 1692676396386.6548,
+      "removeTime": 1692677638367
+    },
+    "9dea37e0-bc46-45d9-b49b-c47cf08f8c0d": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\UIGame.prefab",
+      "time": 1692677824620.8042,
+      "removeTime": 1694086738771
+    },
+    "52c96046-612a-402c-b14f-b8e48c8a9272": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\UIGame_UICtrl.ts",
+      "time": 1692678383514.6077,
+      "removeTime": 1694086968484
+    },
+    "3ed8165d-7a9f-43f5-87b4-49a4bd5ae787": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\UIGame_UICtrl.ts",
+      "time": 1694662383957.8088,
+      "removeTime": 1694674513153
+    },
+    "af1731f3-248b-426f-b19e-117d6f746f23": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\hero.prefab",
+      "time": 1694144025567.7107,
+      "removeTime": 1694144031083
+    },
+    "f246f5b5-bad0-42da-baa2-5a9bfcd10132": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\hero_UICtrl.ts",
+      "time": 1694662383982.7146,
+      "removeTime": 1694674513153
+    },
+    "5f65f1d3-bc24-4c37-901a-1f8651d17fb0": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy1_UICtrl.ts",
+      "time": 1694662383980.7197,
+      "removeTime": 1694674513153
+    },
+    "87ea1606-216e-4db0-a707-7213e2516249": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy2_UICtrl.ts",
+      "time": 1694662383980.7197,
+      "removeTime": 1694674513153
+    },
+    "388e21c6-5a81-4d81-8689-d15d5ed424bb": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\enemy3_UICtrl.ts",
+      "time": 1694662383981.7173,
+      "removeTime": 1694674513153
+    },
+    "43509481-4603-4979-a8fa-b376efa4c785": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bomb_UICtrl.ts",
+      "time": 1694662383964.7903,
+      "removeTime": 1694674513153
+    },
+    "f4aa71d6-3e8a-455b-aa07-d5b98a6bf734": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\ufo1_UICtrl.ts",
+      "time": 1694662383990.7222,
+      "removeTime": 1694674513153
+    },
+    "3848c352-5e76-4941-b2ac-1a69a49ec31c": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\ufo2_UICtrl.ts",
+      "time": 1694662383991.6904,
+      "removeTime": 1694674513153
+    },
+    "fe538287-2140-4be4-a3c1-18e33001223f": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bullet1_UICtrl.ts",
+      "time": 1694662383970.7742,
+      "removeTime": 1694674513153
+    },
+    "66e146b9-e54b-418b-9e9a-704f9effe034": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\UIControllers\\bullet2_UICtrl.ts",
+      "time": 1694662383979.7224,
+      "removeTime": 1694674513153
+    },
+    "2fc49e68-e2ca-443f-af8f-3610ea6f1933": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot\\auto-atlas.pac",
+      "time": 1694067272266.638,
+      "removeTime": 1694162595324
+    },
+    "42d0da1c-e2e6-4dd5-9fb5-cc8e90798036": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\shoot_background\\auto-atlas.pac",
+      "time": 1694067314873.4775,
+      "removeTime": 1694162611306
+    },
+    "825248f7-a6b1-4441-b8f8-bb768181fc02": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\bullet1.prefab",
+      "time": 1694252703774.0232,
+      "removeTime": 1694312123576
+    },
+    "50e7d093-9e35-453e-9178-ff213f04aa8d": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\Scripts\\data\\Bullet",
+      "time": 1694419284386.3171,
+      "removeTime": 1694419289255
+    },
+    "33703027-9fca-4239-8099-074107b777f8": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\GUI\\Prefabs\\bullet2.prefab",
+      "time": 1694252725922.944,
+      "removeTime": 1694506099877
+    },
+    "0e63b944-2020-4b00-882d-42d009c3ec98": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\animate\\heroDie.anim",
+      "time": 1694603881243.0938,
+      "removeTime": 1694674099213
+    },
+    "50f45955-54c3-4428-abb4-8fddb695e170": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\EventMgr.ts",
+      "time": 1694662383671.6987,
+      "removeTime": 1694674585062
+    },
+    "b53cc557-a801-43a5-bb7c-39e73e8e1b19": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\ExcelMgr.ts",
+      "time": 1694662383672.6963,
+      "removeTime": 1694674585062
+    },
+    "be9fdb60-9f79-4ad9-a6f6-9616295e300e": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\NodePoolMgr.ts",
+      "time": 1694662383672.6963,
+      "removeTime": 1694674585062
+    },
+    "0b60812a-fd56-4c50-96a8-119f36c07a13": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\ResMgr.ts",
+      "time": 1694662383673.6934,
+      "removeTime": 1694674585062
+    },
+    "06c246e9-143b-4151-b973-e1da1539f745": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\SceneMgr.ts",
+      "time": 1694662383673.6934,
+      "removeTime": 1694674585062
+    },
+    "c6195d97-344a-416f-85e7-f3bfadde1e87": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Framework\\Scripts\\Managers\\SoundMgr.ts",
+      "time": 1694662383674.695,
+      "removeTime": 1694674585062
+    },
+    "a55e9a97-b16b-4585-bbc7-6dbd6d07ea83": {
+      "path": "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\TimerMgr.ts",
+      "time": 1692414240194.089,
+      "removeTime": 1694675730454
+    },
+    "2ce13ba9-94ac-4cb3-8b63-01ebbcaa77c5": {
+      "path": "D:\\work\\cc_framework\\Client3.8\\assets\\Framework\\Scripts\\Managers\\UIMgr.ts",
+      "time": 1693057399170.4497,
+      "removeTime": 1694675730454
+    },
+    "e059cdfa-b35f-4f5a-b095-9d250ddb6498": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound",
+      "time": 1694662383921.7373,
+      "removeTime": 1695017716998
+    },
+    "54a405cc-bde6-4703-a432-0cdae3cb5a2a": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\achievement.wav",
+      "time": 1694662383893.812,
+      "removeTime": 1695017716998
+    },
+    "cd143bc2-77dd-4f6f-986c-3ffe2b3214f4": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\big_spaceship_flying.wav",
+      "time": 1694662383894.8093,
+      "removeTime": 1695017716998
+    },
+    "9e07b836-3105-47dd-85ef-b44890731b5a": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\bullet.wav",
+      "time": 1694662383895.8066,
+      "removeTime": 1695017716998
+    },
+    "831591c6-ec14-4a45-baf1-814b55d0a09a": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\button.wav",
+      "time": 1694662383896.804,
+      "removeTime": 1695017716998
+    },
+    "30f20cf0-eae5-4aad-ad44-d2ae8a8c3823": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\enemy1_down.wav",
+      "time": 1694662383897.8015,
+      "removeTime": 1695017716998
+    },
+    "d4b612f7-a2ab-48b6-8bc4-adb82405eb9d": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\enemy2_down.wav",
+      "time": 1694662383898.7988,
+      "removeTime": 1695017716998
+    },
+    "1473a2ab-ca53-452b-b995-c4d68b249095": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\enemy3_down.wav",
+      "time": 1694662383899.796,
+      "removeTime": 1695017716998
+    },
+    "57329959-8227-48e6-8fdb-8a24b6c295bb": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\game_music.wav",
+      "time": 1694662383915.755,
+      "removeTime": 1695017716998
+    },
+    "07a40a9f-8dab-4d0b-a952-4871fd3fa8b9": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\game_over.wav",
+      "time": 1694662383916.7695,
+      "removeTime": 1695017716998
+    },
+    "ee4a256c-3812-4dad-bad6-ee633a3c9867": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\get_bomb.wav",
+      "time": 1694662383917.7488,
+      "removeTime": 1695017716998
+    },
+    "eea48e5e-1847-43a2-a963-ae449fd6d51b": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\get_double_laser.wav",
+      "time": 1694662383919.7427,
+      "removeTime": 1695017716998
+    },
+    "e0223349-f28c-4743-ae6b-bc5a9a9fb88a": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\out_porp.wav",
+      "time": 1694662383920.74,
+      "removeTime": 1695017716998
+    },
+    "9df2f214-6900-41f5-aa7d-0d7010be4e9a": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\sound\\use_bomb.wav",
+      "time": 1694662383921.7373,
+      "removeTime": 1695017716998
+    },
+    "3bab0650-02c7-438d-932f-874d264bea9e": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\attack1.mp3",
+      "time": 1694662383768.44,
+      "removeTime": 1695017716998
+    },
+    "2b65df33-e93f-4641-ba23-e3b76b6a5cd2": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\attack2.mp3",
+      "time": 1694662383768.44,
+      "removeTime": 1695017716998
+    },
+    "581f644f-4740-4bc4-99b3-82cc283ffc13": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\attack3.mp3",
+      "time": 1694662383769.4373,
+      "removeTime": 1695017716998
+    },
+    "deb5f0f0-8e42-46ad-8c2d-6132e14978cb": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\attack4.mp3",
+      "time": 1694662383770.4346,
+      "removeTime": 1695017716998
+    },
+    "3a332f6f-8848-473b-9261-fecdc825a9ee": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bestReward.mp3",
+      "time": 1694662383771.432,
+      "removeTime": 1695017716998
+    },
+    "e5627c1e-b620-45b3-8f95-9b0f062d70b7": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossAngry.mp3",
+      "time": 1694662383772.4292,
+      "removeTime": 1695017716998
+    },
+    "95f5c1c3-8e04-4270-a9a4-0f47c982b2b4": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround1.mp3",
+      "time": 1694662383773.4265,
+      "removeTime": 1695017716998
+    },
+    "a4762623-ea88-4528-90fe-c51b40ed3556": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround2.mp3",
+      "time": 1694662383773.4265,
+      "removeTime": 1695017716998
+    },
+    "2eba8a49-f4c0-411a-8f05-5800a53446a8": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround3.mp3",
+      "time": 1694662383774.4238,
+      "removeTime": 1695017716998
+    },
+    "06d6a958-3b45-4581-ba38-5ffabab1769a": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossAttackGround4.mp3",
+      "time": 1694662383775.4214,
+      "removeTime": 1695017716998
+    },
+    "4ccae884-a321-44f6-8cca-655f0fc61e53": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossVertigo.mp3",
+      "time": 1694662383776.4185,
+      "removeTime": 1695017716998
+    },
+    "545a3046-0b9e-463d-9980-06eaf3b1fb17": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponHit.mp3",
+      "time": 1694662383776.4185,
+      "removeTime": 1695017716998
+    },
+    "1fb94d7b-97b7-44ee-a00d-b1f6207ad8ed": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving1.mp3",
+      "time": 1694662383777.416,
+      "removeTime": 1695017716998
+    },
+    "e6097f5b-2123-4ea6-9a03-842e1a9b9cd1": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving2.mp3",
+      "time": 1694662383778.413,
+      "removeTime": 1695017716998
+    },
+    "4242fb70-dfa4-46eb-84bb-22d1f1c2f3a3": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\bossWeaponWaving3.mp3",
+      "time": 1694662383779.4106,
+      "removeTime": 1695017716998
+    },
+    "147ac8ea-c0cd-4c08-a9b9-f74a3882f2ff": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\changeColor.mp3",
+      "time": 1694662383780.408,
+      "removeTime": 1695017716998
+    },
+    "72998e86-c804-4d3e-ba63-79a973a7d29e": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\click.mp3",
+      "time": 1694662383780.408,
+      "removeTime": 1695017716998
+    },
+    "f6434c84-94e8-4685-a66e-85efac9de44f": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\collectKey.mp3",
+      "time": 1694662383781.4053,
+      "removeTime": 1695017716998
+    },
+    "d8d59905-f143-4e72-ae0a-812e0834e488": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleRight.mp3",
+      "time": 1694662383781.4053,
+      "removeTime": 1695017716998
+    },
+    "061860f2-7177-42af-9052-6fd054858342": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\collectPeopleWrong.mp3",
+      "time": 1694662383782.4026,
+      "removeTime": 1695017716998
+    },
+    "0a0d8500-0587-4f86-b455-8738676f3d5f": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\diamondCollect.mp3",
+      "time": 1694662383783.4,
+      "removeTime": 1695017716998
+    },
+    "66a9aab6-571c-4229-9532-74d923ac829d": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\diamondReceive.mp3",
+      "time": 1694662383784.3972,
+      "removeTime": 1695017716998
+    },
+    "6fbe2157-ddbc-401f-aa49-1d392dbbb7b9": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\dodge.mp3",
+      "time": 1694662383784.3972,
+      "removeTime": 1695017716998
+    },
+    "f8bfe152-c7b4-4bac-afe4-7c3437492000": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\enemyHitFly.mp3",
+      "time": 1694662383785.3945,
+      "removeTime": 1695017716998
+    },
+    "9e106a1d-fe16-460d-8166-81ffefd0ba95": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\fail.mp3",
+      "time": 1694662383786.3926,
+      "removeTime": 1695017716998
+    },
+    "430d1ffa-f7b6-447a-b89e-21dfd336da10": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\fallDownOnGround.mp3",
+      "time": 1694662383787.4304,
+      "removeTime": 1695017716998
+    },
+    "a06bfe12-0d1f-44fd-a30c-5ebb551735c9": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\fire.mp3",
+      "time": 1694662383788.3867,
+      "removeTime": 1695017716998
+    },
+    "8f26da45-2939-4199-bd0c-a959e461b8ec": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\footstep1.mp3",
+      "time": 1694662383789.385,
+      "removeTime": 1695017716998
+    },
+    "b63838df-78ed-4953-b7ac-41dfce71f690": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\footstep2.mp3",
+      "time": 1694662383790.381,
+      "removeTime": 1695017716998
+    },
+    "b3f216f5-3cdc-46b4-9dda-73e256ff8d3c": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\footstep3.mp3",
+      "time": 1694662383790.381,
+      "removeTime": 1695017716998
+    },
+    "593439b2-68ca-4d35-9359-864a655b17ac": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\footstep4.mp3",
+      "time": 1694662383791.3787,
+      "removeTime": 1695017716998
+    },
+    "988415f0-623e-422c-bacf-757d09e0ea20": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\footstep5.mp3",
+      "time": 1694662383792.3762,
+      "removeTime": 1695017716998
+    },
+    "615fbd34-8877-45fb-8d4b-874be8c33997": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\getSkin.mp3",
+      "time": 1694662383793.3108,
+      "removeTime": 1695017716998
+    },
+    "c9211b09-b209-44f5-945b-e59954c870bd": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\invincible.mp3",
+      "time": 1694662383794.3022,
+      "removeTime": 1695017716998
+    },
+    "3b80eb2e-3705-4b1e-ad18-35f0107198d4": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\jumpLandingGround.mp3",
+      "time": 1694662383794.3022,
+      "removeTime": 1695017716998
+    },
+    "3fa0a838-e3af-48c0-8a05-95079f26a188": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\levelUp.mp3",
+      "time": 1694662383795.3245,
+      "removeTime": 1695017716998
+    },
+    "2735c060-bac8-4c52-9fd7-a298d1487615": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\numRaise.mp3",
+      "time": 1694662383796.297,
+      "removeTime": 1695017716998
+    },
+    "aa93cadb-24f8-4fc4-b668-1be02b9810b9": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\revive.mp3",
+      "time": 1694662383797.2944,
+      "removeTime": 1695017716998
+    },
+    "f17a2288-2eb9-429d-a323-aaba371fd839": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\rewardBigBox.mp3",
+      "time": 1694662383798.2915,
+      "removeTime": 1695017716998
+    },
+    "46a57ae5-8850-402d-8200-fca78d286465": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\rewardSmallBox.mp3",
+      "time": 1694662383799.3167,
+      "removeTime": 1695017716998
+    },
+    "2f4a7232-73e7-40d3-9d01-c3c58b00e9e0": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughFail.mp3",
+      "time": 1694662383800.3164,
+      "removeTime": 1695017716998
+    },
+    "0b0e51fb-ad2c-4b47-8e80-c2c063a89435": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\wallThoughSuccess.mp3",
+      "time": 1694662383801.2837,
+      "removeTime": 1695017716998
+    },
+    "4880eec7-31be-407b-bda0-69e5db9e4e85": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\Sounds\\win.mp3",
+      "time": 1694662383802.281,
+      "removeTime": 1695017716998
+    },
+    "cff84824-a1d0-4b98-8876-847e6878c9d1": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\font",
+      "time": 1694662383849.9294,
+      "removeTime": 1695017743255
+    },
+    "c96fabfc-eaa9-40a0-b700-fde60c96be64": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\font\\font.fnt",
+      "time": 1694662383848.9321,
+      "removeTime": 1695017743255
+    },
+    "78d3c0e9-bcde-41f8-98a5-7b239c2637c9": {
+      "path": "D:\\work\\cc_framework\\project\\Plane\\assets\\Game\\AssetsPackage\\font\\font.png",
+      "time": 1694662383848.9321,
+      "removeTime": 1695017743255
+    }
+  }
+}

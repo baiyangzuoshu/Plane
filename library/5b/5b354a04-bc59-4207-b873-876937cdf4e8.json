@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "common",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "syntax = \"proto3\";\r\n\r\n// 游戏推落的物品\r\nmessage PushDownGoods {\r\n  // 推落获取区：0充电区、1获取区\r\n  int32 type = 1;\r\n  // 物品id\r\n  int64 goodsId = 2;\r\n  // 物品数量；默认1\r\n  int32 goodsNum = 3;\r\n}\r\n\r\n// 上报游戏进度\r\nmessage ReportGameProgressData {\r\n  // 扩展字段，存放游戏的进度内容\r\n  string ext = 1;\r\n}\r\n\r\n// 响应\r\nmessage ResponseData {\r\n  bool success = 1;\r\n}\r\n\r\n// 使用我的物品\r\nmessage UseMyGoods {\r\n  int64 id = 1;\r\n}\r\n\r\n// 微信小程序登录\r\nmessage WechatMiniLogin {\r\n  string code = 1;\r\n  string encryptedData = 2;\r\n  string vi = 3;\r\n}\r\n\r\n"
+}

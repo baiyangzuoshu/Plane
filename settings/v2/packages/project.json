@@ -1,0 +1,47 @@
+{
+  "__version__": "1.0.5",
+  "layer": [
+    {
+      "name": "UI_DEBUG",
+      "value": 524288
+    }
+  ],
+  "custom_joint_texture_layouts": [],
+  "general": {
+    "renderPipeline": "fd8ec536-a354-4a17-9c74-4f3883c378c8",
+    "designResolution": {
+      "width": 480,
+      "height": 852
+    }
+  },
+  "script": {
+    "importMap": "project://import-map.json"
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "hero"
+      },
+      {
+        "index": 2,
+        "name": "enemy"
+      },
+      {
+        "index": 3,
+        "name": "bullet"
+      },
+      {
+        "index": 4,
+        "name": "ufo"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 20,
+      "2": 10,
+      "3": 4,
+      "4": 2
+    }
+  }
+}
